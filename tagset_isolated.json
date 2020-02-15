@@ -1,0 +1,5017 @@
+[
+    {
+        "uuid": "02fe209e-b55e-4294-9920-a3ee3a0afcfc",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9868806600570679
+            },
+            {
+                "name": "speaker",
+                "value": 0.9827274084091187
+            },
+            {
+                "name": "wood",
+                "value": 0.9810042381286621
+            },
+            {
+                "name": "make noise",
+                "value": 0.9765863418579102
+            },
+            {
+                "name": "loud",
+                "value": 0.974877119064331
+            },
+            {
+                "name": "sound",
+                "value": 0.9665523767471313
+            },
+            {
+                "name": "retro",
+                "value": 0.9529290795326233
+            },
+            {
+                "name": "bass",
+                "value": 0.9443260431289673
+            },
+            {
+                "name": "intensity",
+                "value": 0.9415098428726196
+            },
+            {
+                "name": "music",
+                "value": 0.9378730654716492
+            },
+            {
+                "name": "stereo",
+                "value": 0.9304700493812561
+            },
+            {
+                "name": "acoustic",
+                "value": 0.9256143569946289
+            },
+            {
+                "name": "soprano",
+                "value": 0.9189250469207764
+            },
+            {
+                "name": "woofer",
+                "value": 0.91839200258255
+            },
+            {
+                "name": "membrane",
+                "value": 0.911734938621521
+            },
+            {
+                "name": "audio",
+                "value": 0.8973065614700317
+            },
+            {
+                "name": "voice",
+                "value": 0.8915393352508545
+            },
+            {
+                "name": "amplifier",
+                "value": 0.8721970319747925
+            },
+            {
+                "name": "electronics",
+                "value": 0.8697642087936401
+            },
+            {
+                "name": "equipment",
+                "value": 0.8562711477279663
+            }
+        ]
+    },
+    {
+        "uuid": "0e0af73c-ec71-4481-bc5d-22f49b9b9302",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9952448606491089
+            },
+            {
+                "name": "container",
+                "value": 0.9865443706512451
+            },
+            {
+                "name": "kitchenware",
+                "value": 0.9828760623931885
+            },
+            {
+                "name": "pot",
+                "value": 0.9744172096252441
+            },
+            {
+                "name": "pottery",
+                "value": 0.971708357334137
+            },
+            {
+                "name": "food",
+                "value": 0.970948338508606
+            },
+            {
+                "name": "wood",
+                "value": 0.9703327417373657
+            },
+            {
+                "name": "retro",
+                "value": 0.9701030850410461
+            },
+            {
+                "name": "bowl",
+                "value": 0.9695743918418884
+            },
+            {
+                "name": "cookware",
+                "value": 0.9563412666320801
+            },
+            {
+                "name": "tableware",
+                "value": 0.9543668031692505
+            },
+            {
+                "name": "old",
+                "value": 0.9503015279769897
+            },
+            {
+                "name": "traditional",
+                "value": 0.9487648010253906
+            },
+            {
+                "name": "antique",
+                "value": 0.947727620601654
+            },
+            {
+                "name": "handmade",
+                "value": 0.9438916444778442
+            },
+            {
+                "name": "cooking",
+                "value": 0.9322347044944763
+            },
+            {
+                "name": "clay",
+                "value": 0.9301996827125549
+            },
+            {
+                "name": "earthenware",
+                "value": 0.9292346239089966
+            },
+            {
+                "name": "bamboo",
+                "value": 0.9290241003036499
+            },
+            {
+                "name": "rustic",
+                "value": 0.9283583164215088
+            }
+        ]
+    },
+    {
+        "uuid": "0e7cc3cd-ba50-4931-a786-aeb015e51039",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9890505075454712
+            },
+            {
+                "name": "cactus",
+                "value": 0.9564700126647949
+            },
+            {
+                "name": "pot",
+                "value": 0.9514881372451782
+            },
+            {
+                "name": "pottery",
+                "value": 0.9407150149345398
+            },
+            {
+                "name": "isolated",
+                "value": 0.9326097965240479
+            },
+            {
+                "name": "disjunct",
+                "value": 0.9302405118942261
+            },
+            {
+                "name": "nature",
+                "value": 0.9258548021316528
+            },
+            {
+                "name": "growth",
+                "value": 0.890070915222168
+            },
+            {
+                "name": "leaf",
+                "value": 0.8874669075012207
+            },
+            {
+                "name": "clay",
+                "value": 0.8547133803367615
+            },
+            {
+                "name": "summer",
+                "value": 0.8380606174468994
+            },
+            {
+                "name": "bright",
+                "value": 0.8342533111572266
+            },
+            {
+                "name": "sharp",
+                "value": 0.8251738548278809
+            },
+            {
+                "name": "plastic",
+                "value": 0.819474458694458
+            },
+            {
+                "name": "empty",
+                "value": 0.8119984865188599
+            },
+            {
+                "name": "flowerpot",
+                "value": 0.8079720735549927
+            },
+            {
+                "name": "flora",
+                "value": 0.7942160367965698
+            },
+            {
+                "name": "tropical",
+                "value": 0.7771811485290527
+            },
+            {
+                "name": "isolate",
+                "value": 0.7646103501319885
+            },
+            {
+                "name": "ball-shaped",
+                "value": 0.7403263449668884
+            }
+        ]
+    },
+    {
+        "uuid": "12ec7979-ebc9-4ea0-a146-bd4af5161d77",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9817963242530823
+            },
+            {
+                "name": "art",
+                "value": 0.935604989528656
+            },
+            {
+                "name": "conceptual",
+                "value": 0.857326865196228
+            },
+            {
+                "name": "artistic",
+                "value": 0.8522236943244934
+            },
+            {
+                "name": "studio",
+                "value": 0.8487844467163086
+            },
+            {
+                "name": "paper",
+                "value": 0.837040901184082
+            },
+            {
+                "name": "color",
+                "value": 0.8353368043899536
+            },
+            {
+                "name": "cardboard",
+                "value": 0.8219910860061646
+            },
+            {
+                "name": "one",
+                "value": 0.805395245552063
+            },
+            {
+                "name": "isolated",
+                "value": 0.8033605813980103
+            },
+            {
+                "name": "abstract",
+                "value": 0.7889312505722046
+            },
+            {
+                "name": "creativity",
+                "value": 0.7882616519927979
+            },
+            {
+                "name": "still life",
+                "value": 0.787845253944397
+            },
+            {
+                "name": "cutout",
+                "value": 0.7672339677810669
+            },
+            {
+                "name": "people",
+                "value": 0.7661083936691284
+            },
+            {
+                "name": "desktop",
+                "value": 0.76451575756073
+            },
+            {
+                "name": "empty",
+                "value": 0.7631368637084961
+            },
+            {
+                "name": "wood",
+                "value": 0.7628247141838074
+            },
+            {
+                "name": "disjunct",
+                "value": 0.749590277671814
+            },
+            {
+                "name": "buttocks",
+                "value": 0.728717565536499
+            }
+        ]
+    },
+    {
+        "uuid": "1687ef8a-263b-4b2a-a200-04ce11003bf0",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9979263544082642
+            },
+            {
+                "name": "lamp",
+                "value": 0.9870927333831787
+            },
+            {
+                "name": "electricity",
+                "value": 0.98558109998703
+            },
+            {
+                "name": "glass items",
+                "value": 0.9812039136886597
+            },
+            {
+                "name": "disjunct",
+                "value": 0.9641075134277344
+            },
+            {
+                "name": "classic",
+                "value": 0.9598050713539124
+            },
+            {
+                "name": "illuminated",
+                "value": 0.9579939842224121
+            },
+            {
+                "name": "retro",
+                "value": 0.9518597722053528
+            },
+            {
+                "name": "lantern",
+                "value": 0.9500417709350586
+            },
+            {
+                "name": "isolated",
+                "value": 0.9346868991851807
+            },
+            {
+                "name": "architecture",
+                "value": 0.9337498545646667
+            },
+            {
+                "name": "bright",
+                "value": 0.93262779712677
+            },
+            {
+                "name": "traditional",
+                "value": 0.9228538870811462
+            },
+            {
+                "name": "antique",
+                "value": 0.9201229810714722
+            },
+            {
+                "name": "creativity",
+                "value": 0.918666660785675
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9118138551712036
+            },
+            {
+                "name": "bulb",
+                "value": 0.9112469553947449
+            },
+            {
+                "name": "outdoors",
+                "value": 0.9103670716285706
+            },
+            {
+                "name": "graphic design",
+                "value": 0.8962913155555725
+            },
+            {
+                "name": "family",
+                "value": 0.888602077960968
+            }
+        ]
+    },
+    {
+        "uuid": "1c576432-20f5-4976-88d3-55ca2e411dc0",
+        "tags": [
+            {
+                "name": "car",
+                "value": 0.9994564056396484
+            },
+            {
+                "name": "vehicle",
+                "value": 0.9993178844451904
+            },
+            {
+                "name": "transportation system",
+                "value": 0.9967679977416992
+            },
+            {
+                "name": "classic",
+                "value": 0.9848862886428833
+            },
+            {
+                "name": "chrome",
+                "value": 0.9846700429916382
+            },
+            {
+                "name": "speed",
+                "value": 0.9831892251968384
+            },
+            {
+                "name": "headlight",
+                "value": 0.9815148115158081
+            },
+            {
+                "name": "hood",
+                "value": 0.9811129570007324
+            },
+            {
+                "name": "wheel",
+                "value": 0.9803280234336853
+            },
+            {
+                "name": "bumper",
+                "value": 0.980286717414856
+            },
+            {
+                "name": "truck",
+                "value": 0.9795007705688477
+            },
+            {
+                "name": "sedan",
+                "value": 0.9720465540885925
+            },
+            {
+                "name": "drive",
+                "value": 0.9658071994781494
+            },
+            {
+                "name": "pickup",
+                "value": 0.9628695845603943
+            },
+            {
+                "name": "front",
+                "value": 0.9554301500320435
+            },
+            {
+                "name": "windshield",
+                "value": 0.9450637102127075
+            },
+            {
+                "name": "fast",
+                "value": 0.9432016611099243
+            },
+            {
+                "name": "nostalgia",
+                "value": 0.9373000860214233
+            },
+            {
+                "name": "automotive",
+                "value": 0.930423378944397
+            },
+            {
+                "name": "no person",
+                "value": 0.9191739559173584
+            }
+        ]
+    },
+    {
+        "uuid": "202aee18-a36a-4ac4-9ce3-65e0e516c5e1",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9952435493469238
+            },
+            {
+                "name": "empty",
+                "value": 0.988229513168335
+            },
+            {
+                "name": "wood",
+                "value": 0.9798758029937744
+            },
+            {
+                "name": "isolated",
+                "value": 0.9781934022903442
+            },
+            {
+                "name": "furniture",
+                "value": 0.9578877687454224
+            },
+            {
+                "name": "chair",
+                "value": 0.9284861087799072
+            },
+            {
+                "name": "contemporary",
+                "value": 0.92276531457901
+            },
+            {
+                "name": "retro",
+                "value": 0.9179584980010986
+            },
+            {
+                "name": "stool",
+                "value": 0.8912402391433716
+            },
+            {
+                "name": "family",
+                "value": 0.8909643888473511
+            },
+            {
+                "name": "comfort",
+                "value": 0.8665376901626587
+            },
+            {
+                "name": "one",
+                "value": 0.8661366701126099
+            },
+            {
+                "name": "leather",
+                "value": 0.8651176691055298
+            },
+            {
+                "name": "classic",
+                "value": 0.8624224066734314
+            },
+            {
+                "name": "elegant",
+                "value": 0.8592824339866638
+            },
+            {
+                "name": "design",
+                "value": 0.8548948764801025
+            },
+            {
+                "name": "simplicity",
+                "value": 0.8241140246391296
+            },
+            {
+                "name": "equipment",
+                "value": 0.8200728893280029
+            },
+            {
+                "name": "illustration",
+                "value": 0.8101963996887207
+            },
+            {
+                "name": "wooden",
+                "value": 0.8016698956489563
+            }
+        ]
+    },
+    {
+        "uuid": "2c55ad69-2558-447f-9f40-ecf74c4a6aa5",
+        "tags": [
+            {
+                "name": "television",
+                "value": 0.9909017086029053
+            },
+            {
+                "name": "electronics",
+                "value": 0.9905173182487488
+            },
+            {
+                "name": "isolated",
+                "value": 0.9851332306861877
+            },
+            {
+                "name": "illustration",
+                "value": 0.9762110114097595
+            },
+            {
+                "name": "equipment",
+                "value": 0.971291184425354
+            },
+            {
+                "name": "flat",
+                "value": 0.9703002572059631
+            },
+            {
+                "name": "no person",
+                "value": 0.965744137763977
+            },
+            {
+                "name": "screen",
+                "value": 0.9630508422851562
+            },
+            {
+                "name": "family",
+                "value": 0.9608212113380432
+            },
+            {
+                "name": "monitor",
+                "value": 0.9584511518478394
+            },
+            {
+                "name": "show",
+                "value": 0.9490151405334473
+            },
+            {
+                "name": "empty",
+                "value": 0.9486143589019775
+            },
+            {
+                "name": "broad",
+                "value": 0.9468164443969727
+            },
+            {
+                "name": "plasma",
+                "value": 0.9466663599014282
+            },
+            {
+                "name": "box",
+                "value": 0.9432523250579834
+            },
+            {
+                "name": "design",
+                "value": 0.9410020112991333
+            },
+            {
+                "name": "retro",
+                "value": 0.9351065158843994
+            },
+            {
+                "name": "technology",
+                "value": 0.9339315891265869
+            },
+            {
+                "name": "blank",
+                "value": 0.9335923194885254
+            },
+            {
+                "name": "air broadcast",
+                "value": 0.9209086894989014
+            }
+        ]
+    },
+    {
+        "uuid": "331933dd-abfc-4076-ba76-b479144f83af",
+        "tags": [
+            {
+                "name": "car",
+                "value": 0.9991474151611328
+            },
+            {
+                "name": "vehicle",
+                "value": 0.9968171715736389
+            },
+            {
+                "name": "transportation system",
+                "value": 0.9933949708938599
+            },
+            {
+                "name": "classic",
+                "value": 0.9856678247451782
+            },
+            {
+                "name": "convertible",
+                "value": 0.9856177568435669
+            },
+            {
+                "name": "hood",
+                "value": 0.9823938012123108
+            },
+            {
+                "name": "automotive",
+                "value": 0.9732831716537476
+            },
+            {
+                "name": "coupe",
+                "value": 0.9722611308097839
+            },
+            {
+                "name": "wheel",
+                "value": 0.9673250317573547
+            },
+            {
+                "name": "luxury",
+                "value": 0.9534821510314941
+            },
+            {
+                "name": "chrome",
+                "value": 0.9512960910797119
+            },
+            {
+                "name": "sedan",
+                "value": 0.9428268671035767
+            },
+            {
+                "name": "roadster",
+                "value": 0.9382368326187134
+            },
+            {
+                "name": "drive",
+                "value": 0.9337531328201294
+            },
+            {
+                "name": "glazed",
+                "value": 0.8698074221611023
+            },
+            {
+                "name": "windshield",
+                "value": 0.8696932792663574
+            },
+            {
+                "name": "speed",
+                "value": 0.8586875200271606
+            },
+            {
+                "name": "fast",
+                "value": 0.8514816761016846
+            },
+            {
+                "name": "limousine",
+                "value": 0.8492022752761841
+            },
+            {
+                "name": "mustang",
+                "value": 0.8450640439987183
+            }
+        ]
+    },
+    {
+        "uuid": "353c43b8-4faf-4135-8da5-3ecf822917ed",
+        "tags": [
+            {
+                "name": "lens",
+                "value": 0.9938982725143433
+            },
+            {
+                "name": "retro",
+                "value": 0.990935742855072
+            },
+            {
+                "name": "no person",
+                "value": 0.9858709573745728
+            },
+            {
+                "name": "antique",
+                "value": 0.985612690448761
+            },
+            {
+                "name": "obsolete",
+                "value": 0.984035849571228
+            },
+            {
+                "name": "classic",
+                "value": 0.9785101413726807
+            },
+            {
+                "name": "shutter",
+                "value": 0.9765393137931824
+            },
+            {
+                "name": "aperture",
+                "value": 0.9762449264526367
+            },
+            {
+                "name": "electronics",
+                "value": 0.9749840497970581
+            },
+            {
+                "name": "old",
+                "value": 0.9744418263435364
+            },
+            {
+                "name": "technology",
+                "value": 0.9737682342529297
+            },
+            {
+                "name": "nostalgia",
+                "value": 0.9727232456207275
+            },
+            {
+                "name": "isolated",
+                "value": 0.9723566770553589
+            },
+            {
+                "name": "equipment",
+                "value": 0.9656471014022827
+            },
+            {
+                "name": "rangefinder",
+                "value": 0.952793538570404
+            },
+            {
+                "name": "analogue",
+                "value": 0.9502029418945312
+            },
+            {
+                "name": "chrome",
+                "value": 0.9396483898162842
+            },
+            {
+                "name": "viewfinder",
+                "value": 0.9368546009063721
+            },
+            {
+                "name": "vintage",
+                "value": 0.9230429530143738
+            },
+            {
+                "name": "plastic",
+                "value": 0.9142128229141235
+            }
+        ]
+    },
+    {
+        "uuid": "35ab9756-c7f0-4940-b27b-a06f3a68fa76",
+        "tags": [
+            {
+                "name": "empty",
+                "value": 0.9965799450874329
+            },
+            {
+                "name": "no person",
+                "value": 0.9953488111495972
+            },
+            {
+                "name": "tea",
+                "value": 0.9916710257530212
+            },
+            {
+                "name": "cup",
+                "value": 0.9869084358215332
+            },
+            {
+                "name": "coffee",
+                "value": 0.9792406558990479
+            },
+            {
+                "name": "porcelain",
+                "value": 0.9770582914352417
+            },
+            {
+                "name": "clean",
+                "value": 0.9603080153465271
+            },
+            {
+                "name": "dawn",
+                "value": 0.9531537890434265
+            },
+            {
+                "name": "pottery",
+                "value": 0.9478338956832886
+            },
+            {
+                "name": "breakfast",
+                "value": 0.9469009637832642
+            },
+            {
+                "name": "stranded",
+                "value": 0.9422270059585571
+            },
+            {
+                "name": "isolated",
+                "value": 0.9420357942581177
+            },
+            {
+                "name": "ware",
+                "value": 0.9313458204269409
+            },
+            {
+                "name": "mug",
+                "value": 0.9296175241470337
+            },
+            {
+                "name": "simplicity",
+                "value": 0.9246447086334229
+            },
+            {
+                "name": "drink",
+                "value": 0.919966459274292
+            },
+            {
+                "name": "plastic",
+                "value": 0.9136883020401001
+            },
+            {
+                "name": "bright",
+                "value": 0.9019128084182739
+            },
+            {
+                "name": "handle",
+                "value": 0.8910893797874451
+            },
+            {
+                "name": "full",
+                "value": 0.880781888961792
+            }
+        ]
+    },
+    {
+        "uuid": "3cc9b2cc-aadc-4972-abbb-d516da08b0d5",
+        "tags": [
+            {
+                "name": "technology",
+                "value": 0.9887886047363281
+            },
+            {
+                "name": "machinery",
+                "value": 0.9876991510391235
+            },
+            {
+                "name": "isolated",
+                "value": 0.9697509407997131
+            },
+            {
+                "name": "electronics",
+                "value": 0.9685649871826172
+            },
+            {
+                "name": "equipment",
+                "value": 0.9599868059158325
+            },
+            {
+                "name": "no person",
+                "value": 0.9518332481384277
+            },
+            {
+                "name": "appliance",
+                "value": 0.9512694478034973
+            },
+            {
+                "name": "machine",
+                "value": 0.9092849493026733
+            },
+            {
+                "name": "industry",
+                "value": 0.8961635828018188
+            },
+            {
+                "name": "plastic",
+                "value": 0.871849775314331
+            },
+            {
+                "name": "robot",
+                "value": 0.8703376054763794
+            },
+            {
+                "name": "power",
+                "value": 0.8646554946899414
+            },
+            {
+                "name": "lens",
+                "value": 0.8512829542160034
+            },
+            {
+                "name": "science",
+                "value": 0.8168168067932129
+            },
+            {
+                "name": "illustration",
+                "value": 0.8159182071685791
+            },
+            {
+                "name": "business",
+                "value": 0.807397723197937
+            },
+            {
+                "name": "device",
+                "value": 0.805728018283844
+            },
+            {
+                "name": "retro",
+                "value": 0.7983700037002563
+            },
+            {
+                "name": "glazed",
+                "value": 0.7778762578964233
+            },
+            {
+                "name": "funny",
+                "value": 0.7205390930175781
+            }
+        ]
+    },
+    {
+        "uuid": "3f0c9944-e9d8-4c71-a5a1-207cc4962a2c",
+        "tags": [
+            {
+                "name": "television",
+                "value": 0.9952667951583862
+            },
+            {
+                "name": "electronics",
+                "value": 0.995151162147522
+            },
+            {
+                "name": "air broadcast",
+                "value": 0.9897287487983704
+            },
+            {
+                "name": "monitor",
+                "value": 0.9764193296432495
+            },
+            {
+                "name": "screen",
+                "value": 0.9686047434806824
+            },
+            {
+                "name": "isolated",
+                "value": 0.9667031764984131
+            },
+            {
+                "name": "family",
+                "value": 0.9640970230102539
+            },
+            {
+                "name": "retro",
+                "value": 0.9628552198410034
+            },
+            {
+                "name": "plasma",
+                "value": 0.9606345891952515
+            },
+            {
+                "name": "equipment",
+                "value": 0.9588232040405273
+            },
+            {
+                "name": "no person",
+                "value": 0.9407309293746948
+            },
+            {
+                "name": "wireless",
+                "value": 0.9399512410163879
+            },
+            {
+                "name": "technology",
+                "value": 0.9085248708724976
+            },
+            {
+                "name": "classic",
+                "value": 0.9060607552528381
+            },
+            {
+                "name": "appliance",
+                "value": 0.8982598781585693
+            },
+            {
+                "name": "flat",
+                "value": 0.885661244392395
+            },
+            {
+                "name": "video recording",
+                "value": 0.884920597076416
+            },
+            {
+                "name": "portable",
+                "value": 0.8783409595489502
+            },
+            {
+                "name": "broad",
+                "value": 0.8745701313018799
+            },
+            {
+                "name": "old",
+                "value": 0.8744660019874573
+            }
+        ]
+    },
+    {
+        "uuid": "3f38e16c-6dce-42e9-ba9f-f43fda10fe21",
+        "tags": [
+            {
+                "name": "time",
+                "value": 0.9994146823883057
+            },
+            {
+                "name": "clock",
+                "value": 0.9979915022850037
+            },
+            {
+                "name": "watch",
+                "value": 0.9928500056266785
+            },
+            {
+                "name": "precision",
+                "value": 0.9873848557472229
+            },
+            {
+                "name": "timer",
+                "value": 0.9858509302139282
+            },
+            {
+                "name": "deadline",
+                "value": 0.9857053756713867
+            },
+            {
+                "name": "minute",
+                "value": 0.9839800596237183
+            },
+            {
+                "name": "instrument",
+                "value": 0.9837522506713867
+            },
+            {
+                "name": "stopwatch",
+                "value": 0.9805469512939453
+            },
+            {
+                "name": "measure",
+                "value": 0.9765512943267822
+            },
+            {
+                "name": "countdown",
+                "value": 0.9719560742378235
+            },
+            {
+                "name": "machinery",
+                "value": 0.9695954918861389
+            },
+            {
+                "name": "no person",
+                "value": 0.9649256467819214
+            },
+            {
+                "name": "number",
+                "value": 0.9624855518341064
+            },
+            {
+                "name": "late",
+                "value": 0.9571902751922607
+            },
+            {
+                "name": "analogue",
+                "value": 0.956732451915741
+            },
+            {
+                "name": "slow",
+                "value": 0.954428493976593
+            },
+            {
+                "name": "dial",
+                "value": 0.9530003666877747
+            },
+            {
+                "name": "retro",
+                "value": 0.9518207907676697
+            },
+            {
+                "name": "timepiece",
+                "value": 0.9483639001846313
+            }
+        ]
+    },
+    {
+        "uuid": "47319c0d-6978-4e4a-aca4-de66c09ed704",
+        "tags": [
+            {
+                "name": "technology",
+                "value": 0.990760087966919
+            },
+            {
+                "name": "electronics",
+                "value": 0.9901598691940308
+            },
+            {
+                "name": "no person",
+                "value": 0.9869918823242188
+            },
+            {
+                "name": "lens",
+                "value": 0.9829340577125549
+            },
+            {
+                "name": "isolated",
+                "value": 0.980155885219574
+            },
+            {
+                "name": "equipment",
+                "value": 0.9626349806785583
+            },
+            {
+                "name": "paper",
+                "value": 0.9590128064155579
+            },
+            {
+                "name": "graphic design",
+                "value": 0.9513963460922241
+            },
+            {
+                "name": "machinery",
+                "value": 0.94048011302948
+            },
+            {
+                "name": "business",
+                "value": 0.938217282295227
+            },
+            {
+                "name": "data",
+                "value": 0.9379929304122925
+            },
+            {
+                "name": "illustration",
+                "value": 0.9363770484924316
+            },
+            {
+                "name": "capture",
+                "value": 0.9291479587554932
+            },
+            {
+                "name": "retro",
+                "value": 0.9248531460762024
+            },
+            {
+                "name": "plastic",
+                "value": 0.9234487414360046
+            },
+            {
+                "name": "email",
+                "value": 0.9191526174545288
+            },
+            {
+                "name": "camcorder",
+                "value": 0.8960800170898438
+            },
+            {
+                "name": "internet",
+                "value": 0.8939200639724731
+            },
+            {
+                "name": "facts",
+                "value": 0.8918140530586243
+            },
+            {
+                "name": "storage",
+                "value": 0.8913838863372803
+            }
+        ]
+    },
+    {
+        "uuid": "4b7538a1-54d0-46c4-a8f7-280602c70a2c",
+        "tags": [
+            {
+                "name": "home appliance",
+                "value": 0.9979550838470459
+            },
+            {
+                "name": "housework",
+                "value": 0.997822642326355
+            },
+            {
+                "name": "laundry",
+                "value": 0.9936524033546448
+            },
+            {
+                "name": "plastic",
+                "value": 0.9876489639282227
+            },
+            {
+                "name": "cleaner",
+                "value": 0.9861999750137329
+            },
+            {
+                "name": "family",
+                "value": 0.9852091073989868
+            },
+            {
+                "name": "handle",
+                "value": 0.9773213267326355
+            },
+            {
+                "name": "isolated",
+                "value": 0.9723618626594543
+            },
+            {
+                "name": "job",
+                "value": 0.9693951606750488
+            },
+            {
+                "name": "appliance",
+                "value": 0.9553480744361877
+            },
+            {
+                "name": "equipment",
+                "value": 0.9430453777313232
+            },
+            {
+                "name": "spray",
+                "value": 0.930305004119873
+            },
+            {
+                "name": "laundry facility",
+                "value": 0.911076545715332
+            },
+            {
+                "name": "no person",
+                "value": 0.9093292951583862
+            },
+            {
+                "name": "clean",
+                "value": 0.902621865272522
+            },
+            {
+                "name": "electricity",
+                "value": 0.9001027941703796
+            },
+            {
+                "name": "detergent",
+                "value": 0.8961173295974731
+            },
+            {
+                "name": "dryer",
+                "value": 0.8882914185523987
+            },
+            {
+                "name": "power",
+                "value": 0.88581383228302
+            },
+            {
+                "name": "machine",
+                "value": 0.8852652311325073
+            }
+        ]
+    },
+    {
+        "uuid": "51eb7f5e-131e-4018-9315-0bfbe7332c34",
+        "tags": [
+            {
+                "name": "time",
+                "value": 0.9994447231292725
+            },
+            {
+                "name": "clock",
+                "value": 0.9975359439849854
+            },
+            {
+                "name": "no person",
+                "value": 0.997118353843689
+            },
+            {
+                "name": "midnight",
+                "value": 0.9880123734474182
+            },
+            {
+                "name": "late",
+                "value": 0.985244631767273
+            },
+            {
+                "name": "precision",
+                "value": 0.9838284254074097
+            },
+            {
+                "name": "minute",
+                "value": 0.9817395210266113
+            },
+            {
+                "name": "classic",
+                "value": 0.9750401973724365
+            },
+            {
+                "name": "retro",
+                "value": 0.9719361662864685
+            },
+            {
+                "name": "analogue",
+                "value": 0.9699047803878784
+            },
+            {
+                "name": "dial",
+                "value": 0.9691556692123413
+            },
+            {
+                "name": "watch",
+                "value": 0.9660580158233643
+            },
+            {
+                "name": "machinery",
+                "value": 0.963380753993988
+            },
+            {
+                "name": "antique",
+                "value": 0.9622241258621216
+            },
+            {
+                "name": "noon",
+                "value": 0.9604896306991577
+            },
+            {
+                "name": "deadline",
+                "value": 0.9603773951530457
+            },
+            {
+                "name": "timepiece",
+                "value": 0.958763599395752
+            },
+            {
+                "name": "early",
+                "value": 0.9514648914337158
+            },
+            {
+                "name": "round out",
+                "value": 0.9343786239624023
+            },
+            {
+                "name": "quartz",
+                "value": 0.929983377456665
+            }
+        ]
+    },
+    {
+        "uuid": "57eeb1cd-fcc8-4fdf-bbe1-60ca9a08b893",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9995701909065247
+            },
+            {
+                "name": "architecture",
+                "value": 0.9950544834136963
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9893773794174194
+            },
+            {
+                "name": "outdoors",
+                "value": 0.9813366532325745
+            },
+            {
+                "name": "geometric",
+                "value": 0.9601037502288818
+            },
+            {
+                "name": "sky",
+                "value": 0.9567962884902954
+            },
+            {
+                "name": "travel",
+                "value": 0.9537060260772705
+            },
+            {
+                "name": "futuristic",
+                "value": 0.937044620513916
+            },
+            {
+                "name": "business",
+                "value": 0.9239745140075684
+            },
+            {
+                "name": "perspective",
+                "value": 0.920923113822937
+            },
+            {
+                "name": "graphic design",
+                "value": 0.9139633178710938
+            },
+            {
+                "name": "window",
+                "value": 0.8982254266738892
+            },
+            {
+                "name": "glass items",
+                "value": 0.8973221182823181
+            },
+            {
+                "name": "repetition",
+                "value": 0.8678094148635864
+            },
+            {
+                "name": "bedrock",
+                "value": 0.8552252054214478
+            },
+            {
+                "name": "downtown",
+                "value": 0.8540582656860352
+            },
+            {
+                "name": "vertical",
+                "value": 0.8459410071372986
+            },
+            {
+                "name": "wood",
+                "value": 0.8453034162521362
+            },
+            {
+                "name": "connection",
+                "value": 0.8434014320373535
+            },
+            {
+                "name": "stripe",
+                "value": 0.8324010968208313
+            }
+        ]
+    },
+    {
+        "uuid": "5c9559d7-46b8-4967-bada-a218950c68a6",
+        "tags": [
+            {
+                "name": "wood",
+                "value": 0.9863557815551758
+            },
+            {
+                "name": "wooden",
+                "value": 0.9764679670333862
+            },
+            {
+                "name": "art",
+                "value": 0.9723317623138428
+            },
+            {
+                "name": "desktop",
+                "value": 0.9658350348472595
+            },
+            {
+                "name": "knife",
+                "value": 0.9575932025909424
+            },
+            {
+                "name": "painting",
+                "value": 0.9555596709251404
+            },
+            {
+                "name": "palette",
+                "value": 0.9549044370651245
+            },
+            {
+                "name": "food",
+                "value": 0.952881932258606
+            },
+            {
+                "name": "illustration",
+                "value": 0.9524693489074707
+            },
+            {
+                "name": "creativity",
+                "value": 0.9475960731506348
+            },
+            {
+                "name": "paintbrush",
+                "value": 0.9474484920501709
+            },
+            {
+                "name": "image",
+                "value": 0.9371941089630127
+            },
+            {
+                "name": "painter",
+                "value": 0.9343160390853882
+            },
+            {
+                "name": "traditional",
+                "value": 0.9271005392074585
+            },
+            {
+                "name": "design",
+                "value": 0.9266793727874756
+            },
+            {
+                "name": "brush",
+                "value": 0.9210183024406433
+            },
+            {
+                "name": "isolate",
+                "value": 0.9145932197570801
+            },
+            {
+                "name": "no person",
+                "value": 0.9043034315109253
+            },
+            {
+                "name": "isolated",
+                "value": 0.8988606333732605
+            },
+            {
+                "name": "disjunct",
+                "value": 0.8969449400901794
+            }
+        ]
+    },
+    {
+        "uuid": "6b1d4974-4648-4313-8f3f-5ca94652ad2f",
+        "tags": [
+            {
+                "name": "leaf",
+                "value": 0.996864914894104
+            },
+            {
+                "name": "no person",
+                "value": 0.9949942827224731
+            },
+            {
+                "name": "nature",
+                "value": 0.9936137199401855
+            },
+            {
+                "name": "growth",
+                "value": 0.9791824817657471
+            },
+            {
+                "name": "disjunct",
+                "value": 0.9628506898880005
+            },
+            {
+                "name": "flora",
+                "value": 0.9541586637496948
+            },
+            {
+                "name": "elegant",
+                "value": 0.9281670451164246
+            },
+            {
+                "name": "summer",
+                "value": 0.9260972738265991
+            },
+            {
+                "name": "simplicity",
+                "value": 0.9260479211807251
+            },
+            {
+                "name": "tropical",
+                "value": 0.9144039154052734
+            },
+            {
+                "name": "bright",
+                "value": 0.8861433267593384
+            },
+            {
+                "name": "empty",
+                "value": 0.8815701007843018
+            },
+            {
+                "name": "ingredients",
+                "value": 0.8619304895401001
+            },
+            {
+                "name": "ecology",
+                "value": 0.8596987724304199
+            },
+            {
+                "name": "isolated",
+                "value": 0.8569727540016174
+            },
+            {
+                "name": "paper",
+                "value": 0.8547371625900269
+            },
+            {
+                "name": "wood",
+                "value": 0.8411402702331543
+            },
+            {
+                "name": "graphic design",
+                "value": 0.8340174555778503
+            },
+            {
+                "name": "energetic",
+                "value": 0.8320677280426025
+            },
+            {
+                "name": "pottery",
+                "value": 0.8269083499908447
+            }
+        ]
+    },
+    {
+        "uuid": "6d2340a1-1e6b-46c4-8232-7c7c9bc6b26e",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9848755598068237
+            },
+            {
+                "name": "isolated",
+                "value": 0.9750558137893677
+            },
+            {
+                "name": "electronics",
+                "value": 0.9668843746185303
+            },
+            {
+                "name": "equipment",
+                "value": 0.9466056823730469
+            },
+            {
+                "name": "technology",
+                "value": 0.9400478601455688
+            },
+            {
+                "name": "screen",
+                "value": 0.9173736572265625
+            },
+            {
+                "name": "plastic",
+                "value": 0.910467267036438
+            },
+            {
+                "name": "family",
+                "value": 0.8674660325050354
+            },
+            {
+                "name": "retro",
+                "value": 0.8640605211257935
+            },
+            {
+                "name": "machinery",
+                "value": 0.8552676439285278
+            },
+            {
+                "name": "broad",
+                "value": 0.836988091468811
+            },
+            {
+                "name": "monitor",
+                "value": 0.835835337638855
+            },
+            {
+                "name": "control",
+                "value": 0.8271930813789368
+            },
+            {
+                "name": "wireless",
+                "value": 0.813835859298706
+            },
+            {
+                "name": "video recording",
+                "value": 0.8099345564842224
+            },
+            {
+                "name": "internet",
+                "value": 0.8077799081802368
+            },
+            {
+                "name": "display",
+                "value": 0.7889165878295898
+            },
+            {
+                "name": "empty",
+                "value": 0.7857552170753479
+            },
+            {
+                "name": "television",
+                "value": 0.7804672718048096
+            },
+            {
+                "name": "appliance",
+                "value": 0.7795392274856567
+            }
+        ]
+    },
+    {
+        "uuid": "6d7c78b2-437d-47f3-bd52-1d2a8da4380e",
+        "tags": [
+            {
+                "name": "analog",
+                "value": 0.9877084493637085
+            },
+            {
+                "name": "phonograph record",
+                "value": 0.9761174917221069
+            },
+            {
+                "name": "technology",
+                "value": 0.9725792407989502
+            },
+            {
+                "name": "retro",
+                "value": 0.9702924489974976
+            },
+            {
+                "name": "audio",
+                "value": 0.967976450920105
+            },
+            {
+                "name": "no person",
+                "value": 0.9644811153411865
+            },
+            {
+                "name": "storage",
+                "value": 0.9596866369247437
+            },
+            {
+                "name": "cassette",
+                "value": 0.9562176465988159
+            },
+            {
+                "name": "sound",
+                "value": 0.9298427104949951
+            },
+            {
+                "name": "vintage",
+                "value": 0.9272735118865967
+            },
+            {
+                "name": "box",
+                "value": 0.9134288430213928
+            },
+            {
+                "name": "music",
+                "value": 0.91205233335495
+            },
+            {
+                "name": "tape",
+                "value": 0.9011573791503906
+            },
+            {
+                "name": "analogue",
+                "value": 0.8911187648773193
+            },
+            {
+                "name": "data",
+                "value": 0.8900268077850342
+            },
+            {
+                "name": "old",
+                "value": 0.8733505010604858
+            },
+            {
+                "name": "stereo",
+                "value": 0.8706457614898682
+            },
+            {
+                "name": "equipment",
+                "value": 0.867561936378479
+            },
+            {
+                "name": "obsolete",
+                "value": 0.8665587902069092
+            },
+            {
+                "name": "desktop",
+                "value": 0.8657571077346802
+            }
+        ]
+    },
+    {
+        "uuid": "6e9fbe2e-895f-46e4-831c-2b16314adca2",
+        "tags": [
+            {
+                "name": "isolated",
+                "value": 0.9819259643554688
+            },
+            {
+                "name": "megaphone",
+                "value": 0.9482854008674622
+            },
+            {
+                "name": "equipment",
+                "value": 0.9452885389328003
+            },
+            {
+                "name": "speaker",
+                "value": 0.8985100984573364
+            },
+            {
+                "name": "show",
+                "value": 0.8947378396987915
+            },
+            {
+                "name": "business",
+                "value": 0.8784278035163879
+            },
+            {
+                "name": "voice",
+                "value": 0.8554260730743408
+            },
+            {
+                "name": "electronics",
+                "value": 0.8444154262542725
+            },
+            {
+                "name": "no person",
+                "value": 0.8341037034988403
+            },
+            {
+                "name": "character",
+                "value": 0.830551028251648
+            },
+            {
+                "name": "technology",
+                "value": 0.7933176755905151
+            },
+            {
+                "name": "communication",
+                "value": 0.7904436588287354
+            },
+            {
+                "name": "surveillance",
+                "value": 0.7704786062240601
+            },
+            {
+                "name": "warning",
+                "value": 0.7536033987998962
+            },
+            {
+                "name": "plastic",
+                "value": 0.7517423629760742
+            },
+            {
+                "name": "stroboscope",
+                "value": 0.749539315700531
+            },
+            {
+                "name": "man",
+                "value": 0.7432593703269958
+            },
+            {
+                "name": "loud",
+                "value": 0.7360806465148926
+            },
+            {
+                "name": "security",
+                "value": 0.7222501039505005
+            },
+            {
+                "name": "lamp",
+                "value": 0.7173577547073364
+            }
+        ]
+    },
+    {
+        "uuid": "72af3412-a8c6-4cc0-80c2-cd2e6395e604",
+        "tags": [
+            {
+                "name": "computer",
+                "value": 0.9973567128181458
+            },
+            {
+                "name": "laptop",
+                "value": 0.9949902296066284
+            },
+            {
+                "name": "no person",
+                "value": 0.9938612580299377
+            },
+            {
+                "name": "technology",
+                "value": 0.9891819953918457
+            },
+            {
+                "name": "internet",
+                "value": 0.9874472618103027
+            },
+            {
+                "name": "keyboard",
+                "value": 0.9837749004364014
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9708565473556519
+            },
+            {
+                "name": "electronics",
+                "value": 0.9684513807296753
+            },
+            {
+                "name": "screen",
+                "value": 0.967147946357727
+            },
+            {
+                "name": "mouse",
+                "value": 0.95380699634552
+            },
+            {
+                "name": "desktop",
+                "value": 0.9508048295974731
+            },
+            {
+                "name": "wireless",
+                "value": 0.9473679065704346
+            },
+            {
+                "name": "business",
+                "value": 0.9460006952285767
+            },
+            {
+                "name": "portable",
+                "value": 0.9406334161758423
+            },
+            {
+                "name": "display",
+                "value": 0.9390265941619873
+            },
+            {
+                "name": "modern",
+                "value": 0.938471794128418
+            },
+            {
+                "name": "dark",
+                "value": 0.8978027105331421
+            },
+            {
+                "name": "equipment",
+                "value": 0.8949439525604248
+            },
+            {
+                "name": "monitor",
+                "value": 0.8921295404434204
+            },
+            {
+                "name": "connection",
+                "value": 0.8882613778114319
+            }
+        ]
+    },
+    {
+        "uuid": "7521cdb5-e79d-4c38-b8d9-7165cddd6b96",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.996301531791687
+            },
+            {
+                "name": "retro",
+                "value": 0.9955511093139648
+            },
+            {
+                "name": "antique",
+                "value": 0.9922113418579102
+            },
+            {
+                "name": "telephone",
+                "value": 0.9874976873397827
+            },
+            {
+                "name": "classic",
+                "value": 0.986945629119873
+            },
+            {
+                "name": "nostalgia",
+                "value": 0.9869146943092346
+            },
+            {
+                "name": "old",
+                "value": 0.9802114963531494
+            },
+            {
+                "name": "dial in",
+                "value": 0.9702403545379639
+            },
+            {
+                "name": "technology",
+                "value": 0.9693593978881836
+            },
+            {
+                "name": "business",
+                "value": 0.9656921625137329
+            },
+            {
+                "name": "service",
+                "value": 0.9640440940856934
+            },
+            {
+                "name": "machinery",
+                "value": 0.9627645015716553
+            },
+            {
+                "name": "obsolete",
+                "value": 0.962672770023346
+            },
+            {
+                "name": "rotary",
+                "value": 0.9579130411148071
+            },
+            {
+                "name": "dial",
+                "value": 0.9567228555679321
+            },
+            {
+                "name": "vintage",
+                "value": 0.9562960267066956
+            },
+            {
+                "name": "handset",
+                "value": 0.9539480805397034
+            },
+            {
+                "name": "talk",
+                "value": 0.9514333009719849
+            },
+            {
+                "name": "isolated",
+                "value": 0.9438058137893677
+            },
+            {
+                "name": "plastic",
+                "value": 0.9407402276992798
+            }
+        ]
+    },
+    {
+        "uuid": "7a639bdd-6b81-4db2-9b82-f9f86b6ff952",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9839954972267151
+            },
+            {
+                "name": "graphic design",
+                "value": 0.9779658317565918
+            },
+            {
+                "name": "shining",
+                "value": 0.9635182023048401
+            },
+            {
+                "name": "bright",
+                "value": 0.957776665687561
+            },
+            {
+                "name": "illustration",
+                "value": 0.9322032928466797
+            },
+            {
+                "name": "empty",
+                "value": 0.9036856889724731
+            },
+            {
+                "name": "art",
+                "value": 0.9016793370246887
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9007564783096313
+            },
+            {
+                "name": "design",
+                "value": 0.8993544578552246
+            },
+            {
+                "name": "vector",
+                "value": 0.898237943649292
+            },
+            {
+                "name": "abstract",
+                "value": 0.8924319744110107
+            },
+            {
+                "name": "artistic",
+                "value": 0.8853878974914551
+            },
+            {
+                "name": "blur",
+                "value": 0.8507277965545654
+            },
+            {
+                "name": "space",
+                "value": 0.8444358110427856
+            },
+            {
+                "name": "nature",
+                "value": 0.8274325132369995
+            },
+            {
+                "name": "creativity",
+                "value": 0.8247206211090088
+            },
+            {
+                "name": "vertical",
+                "value": 0.8192911148071289
+            },
+            {
+                "name": "wallpaper",
+                "value": 0.806771457195282
+            },
+            {
+                "name": "love",
+                "value": 0.8012679815292358
+            },
+            {
+                "name": "graphic",
+                "value": 0.7979539036750793
+            }
+        ]
+    },
+    {
+        "uuid": "7c593079-7188-4e7c-9258-1d916510406a",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9957323670387268
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9852869510650635
+            },
+            {
+                "name": "graphic design",
+                "value": 0.9736558794975281
+            },
+            {
+                "name": "indoors",
+                "value": 0.9611920118331909
+            },
+            {
+                "name": "stripe",
+                "value": 0.9509924054145813
+            },
+            {
+                "name": "retro",
+                "value": 0.9434418678283691
+            },
+            {
+                "name": "empty",
+                "value": 0.9131004810333252
+            },
+            {
+                "name": "interior design",
+                "value": 0.9013371467590332
+            },
+            {
+                "name": "fashion",
+                "value": 0.8880846500396729
+            },
+            {
+                "name": "business",
+                "value": 0.887724757194519
+            },
+            {
+                "name": "family",
+                "value": 0.8857443332672119
+            },
+            {
+                "name": "man",
+                "value": 0.8786588907241821
+            },
+            {
+                "name": "woman",
+                "value": 0.8722929954528809
+            },
+            {
+                "name": "isolated",
+                "value": 0.8722890615463257
+            },
+            {
+                "name": "design",
+                "value": 0.8640272617340088
+            },
+            {
+                "name": "outdoors",
+                "value": 0.8614556789398193
+            },
+            {
+                "name": "wood",
+                "value": 0.8585749864578247
+            },
+            {
+                "name": "simplicity",
+                "value": 0.8485406637191772
+            },
+            {
+                "name": "trendy",
+                "value": 0.8380824327468872
+            },
+            {
+                "name": "elegant",
+                "value": 0.8374538421630859
+            }
+        ]
+    },
+    {
+        "uuid": "7d075332-32cf-46ab-8f2a-adea176bf906",
+        "tags": [
+            {
+                "name": "turquoise",
+                "value": 0.983034610748291
+            },
+            {
+                "name": "business",
+                "value": 0.9593513011932373
+            },
+            {
+                "name": "label",
+                "value": 0.9420160055160522
+            },
+            {
+                "name": "image",
+                "value": 0.9381905794143677
+            },
+            {
+                "name": "symbol",
+                "value": 0.9303268194198608
+            },
+            {
+                "name": "design",
+                "value": 0.9278708696365356
+            },
+            {
+                "name": "sign",
+                "value": 0.9205187559127808
+            },
+            {
+                "name": "round out",
+                "value": 0.9189527034759521
+            },
+            {
+                "name": "internet",
+                "value": 0.9174560308456421
+            },
+            {
+                "name": "no person",
+                "value": 0.9119566679000854
+            },
+            {
+                "name": "glazed",
+                "value": 0.9102456569671631
+            },
+            {
+                "name": "isolated",
+                "value": 0.9079552888870239
+            },
+            {
+                "name": "designing",
+                "value": 0.9047324657440186
+            },
+            {
+                "name": "service",
+                "value": 0.9045301675796509
+            },
+            {
+                "name": "safety",
+                "value": 0.8772758841514587
+            },
+            {
+                "name": "plastic",
+                "value": 0.8751375675201416
+            },
+            {
+                "name": "quality",
+                "value": 0.8710715174674988
+            },
+            {
+                "name": "aid",
+                "value": 0.8516939878463745
+            },
+            {
+                "name": "World Wide Web",
+                "value": 0.8290970921516418
+            },
+            {
+                "name": "glass items",
+                "value": 0.8256322741508484
+            }
+        ]
+    },
+    {
+        "uuid": "7dd14f23-bc88-4726-8ee3-f1777bcd43cb",
+        "tags": [
+            {
+                "name": "lens",
+                "value": 0.9998581409454346
+            },
+            {
+                "name": "aperture",
+                "value": 0.9989725351333618
+            },
+            {
+                "name": "shutter",
+                "value": 0.998908519744873
+            },
+            {
+                "name": "photograph",
+                "value": 0.9960106611251831
+            },
+            {
+                "name": "zoom",
+                "value": 0.9955894947052002
+            },
+            {
+                "name": "retro",
+                "value": 0.9954439997673035
+            },
+            {
+                "name": "viewfinder",
+                "value": 0.9950745105743408
+            },
+            {
+                "name": "movie",
+                "value": 0.9942812919616699
+            },
+            {
+                "name": "analogue",
+                "value": 0.9928823709487915
+            },
+            {
+                "name": "rangefinder",
+                "value": 0.9928366541862488
+            },
+            {
+                "name": "classic",
+                "value": 0.9917291402816772
+            },
+            {
+                "name": "antique",
+                "value": 0.9914559125900269
+            },
+            {
+                "name": "old",
+                "value": 0.989895224571228
+            },
+            {
+                "name": "iso",
+                "value": 0.9895024299621582
+            },
+            {
+                "name": "equipment",
+                "value": 0.9885505437850952
+            },
+            {
+                "name": "reflex",
+                "value": 0.9882059097290039
+            },
+            {
+                "name": "obsolete",
+                "value": 0.9870838522911072
+            },
+            {
+                "name": "technology",
+                "value": 0.9856368899345398
+            },
+            {
+                "name": "vintage",
+                "value": 0.985598087310791
+            },
+            {
+                "name": "sparkle",
+                "value": 0.9843705892562866
+            }
+        ]
+    },
+    {
+        "uuid": "80552d40-aa98-4cea-b277-6f9882d73ef9",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9972251653671265
+            },
+            {
+                "name": "isolated",
+                "value": 0.9933592081069946
+            },
+            {
+                "name": "classic",
+                "value": 0.9686939716339111
+            },
+            {
+                "name": "leather",
+                "value": 0.965277910232544
+            },
+            {
+                "name": "glazed",
+                "value": 0.9583536386489868
+            },
+            {
+                "name": "steel",
+                "value": 0.9445817470550537
+            },
+            {
+                "name": "retro",
+                "value": 0.9406414031982422
+            },
+            {
+                "name": "fashion",
+                "value": 0.9220883846282959
+            },
+            {
+                "name": "equipment",
+                "value": 0.9204977750778198
+            },
+            {
+                "name": "shining",
+                "value": 0.920235276222229
+            },
+            {
+                "name": "elegant",
+                "value": 0.9079142808914185
+            },
+            {
+                "name": "antique",
+                "value": 0.9070445895195007
+            },
+            {
+                "name": "one",
+                "value": 0.9048175811767578
+            },
+            {
+                "name": "disjunct",
+                "value": 0.8994313478469849
+            },
+            {
+                "name": "plastic",
+                "value": 0.8969977498054504
+            },
+            {
+                "name": "chrome",
+                "value": 0.8940137624740601
+            },
+            {
+                "name": "old",
+                "value": 0.8816133141517639
+            },
+            {
+                "name": "luxury",
+                "value": 0.8684077262878418
+            },
+            {
+                "name": "security",
+                "value": 0.8553290367126465
+            },
+            {
+                "name": "iron",
+                "value": 0.8519272208213806
+            }
+        ]
+    },
+    {
+        "uuid": "80bb6e1e-b4f2-4f0e-beeb-72a5b0a30839",
+        "tags": [
+            {
+                "name": "paper",
+                "value": 0.999416708946228
+            },
+            {
+                "name": "cardboard",
+                "value": 0.998426079750061
+            },
+            {
+                "name": "devoid",
+                "value": 0.9948025941848755
+            },
+            {
+                "name": "no person",
+                "value": 0.9937824010848999
+            },
+            {
+                "name": "empty",
+                "value": 0.9882603287696838
+            },
+            {
+                "name": "merchandise",
+                "value": 0.9814059138298035
+            },
+            {
+                "name": "isolated",
+                "value": 0.9756730198860168
+            },
+            {
+                "name": "blank",
+                "value": 0.9686999917030334
+            },
+            {
+                "name": "shop",
+                "value": 0.9643797874450684
+            },
+            {
+                "name": "post",
+                "value": 0.9359763860702515
+            },
+            {
+                "name": "order",
+                "value": 0.9255629777908325
+            },
+            {
+                "name": "packaging",
+                "value": 0.9092673063278198
+            },
+            {
+                "name": "rope",
+                "value": 0.907677173614502
+            },
+            {
+                "name": "hanging",
+                "value": 0.9004740118980408
+            },
+            {
+                "name": "disjunct",
+                "value": 0.8693513870239258
+            },
+            {
+                "name": "facts",
+                "value": 0.867553174495697
+            },
+            {
+                "name": "shopping",
+                "value": 0.8629265427589417
+            },
+            {
+                "name": "mail",
+                "value": 0.8588098883628845
+            },
+            {
+                "name": "distribution",
+                "value": 0.8453240990638733
+            },
+            {
+                "name": "write",
+                "value": 0.8374258875846863
+            }
+        ]
+    },
+    {
+        "uuid": "82f16536-8652-4d4d-9984-ba390579799c",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9923409223556519
+            },
+            {
+                "name": "architecture",
+                "value": 0.9890680313110352
+            },
+            {
+                "name": "retro",
+                "value": 0.9809942245483398
+            },
+            {
+                "name": "fair booth",
+                "value": 0.9715862274169922
+            },
+            {
+                "name": "old",
+                "value": 0.9703971147537231
+            },
+            {
+                "name": "antique",
+                "value": 0.9627161026000977
+            },
+            {
+                "name": "travel",
+                "value": 0.9443533420562744
+            },
+            {
+                "name": "traditional",
+                "value": 0.9397978782653809
+            },
+            {
+                "name": "classic",
+                "value": 0.9381953477859497
+            },
+            {
+                "name": "wood",
+                "value": 0.933925986289978
+            },
+            {
+                "name": "window",
+                "value": 0.9209861159324646
+            },
+            {
+                "name": "vintage",
+                "value": 0.918459951877594
+            },
+            {
+                "name": "design",
+                "value": 0.9141577482223511
+            },
+            {
+                "name": "outdoors",
+                "value": 0.907215416431427
+            },
+            {
+                "name": "glass items",
+                "value": 0.9054538011550903
+            },
+            {
+                "name": "business",
+                "value": 0.9042191505432129
+            },
+            {
+                "name": "building",
+                "value": 0.873000979423523
+            },
+            {
+                "name": "dirty",
+                "value": 0.8688660860061646
+            },
+            {
+                "name": "family",
+                "value": 0.8610583543777466
+            },
+            {
+                "name": "booth",
+                "value": 0.8533915281295776
+            }
+        ]
+    },
+    {
+        "uuid": "8464960d-a83c-4589-aa10-cab804183c62",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9991980791091919
+            },
+            {
+                "name": "exposed",
+                "value": 0.9899027943611145
+            },
+            {
+                "name": "graphic design",
+                "value": 0.9871445894241333
+            },
+            {
+                "name": "retro",
+                "value": 0.9834086894989014
+            },
+            {
+                "name": "cinematography",
+                "value": 0.9745360612869263
+            },
+            {
+                "name": "industry",
+                "value": 0.9731295704841614
+            },
+            {
+                "name": "movie",
+                "value": 0.9548707008361816
+            },
+            {
+                "name": "negative",
+                "value": 0.9544500112533569
+            },
+            {
+                "name": "antique",
+                "value": 0.9445319175720215
+            },
+            {
+                "name": "plastic",
+                "value": 0.9328396320343018
+            },
+            {
+                "name": "electronics",
+                "value": 0.9317302703857422
+            },
+            {
+                "name": "old",
+                "value": 0.9306445121765137
+            },
+            {
+                "name": "business",
+                "value": 0.9279624223709106
+            },
+            {
+                "name": "isolated",
+                "value": 0.9232326745986938
+            },
+            {
+                "name": "power",
+                "value": 0.9063600301742554
+            },
+            {
+                "name": "paper",
+                "value": 0.8996598124504089
+            },
+            {
+                "name": "action",
+                "value": 0.898235559463501
+            },
+            {
+                "name": "classic",
+                "value": 0.8861536979675293
+            },
+            {
+                "name": "empty",
+                "value": 0.8839859962463379
+            },
+            {
+                "name": "safety",
+                "value": 0.8776582479476929
+            }
+        ]
+    },
+    {
+        "uuid": "849ba4e5-6e51-4088-935f-cd2b9ec7b128",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9540085792541504
+            },
+            {
+                "name": "glass items",
+                "value": 0.9135706424713135
+            },
+            {
+                "name": "design",
+                "value": 0.9027372598648071
+            },
+            {
+                "name": "desktop",
+                "value": 0.8984823226928711
+            },
+            {
+                "name": "decoration",
+                "value": 0.8910713791847229
+            },
+            {
+                "name": "container",
+                "value": 0.8908527493476868
+            },
+            {
+                "name": "gold",
+                "value": 0.8797605037689209
+            },
+            {
+                "name": "food",
+                "value": 0.8738116025924683
+            },
+            {
+                "name": "architecture",
+                "value": 0.8737344741821289
+            },
+            {
+                "name": "isolate",
+                "value": 0.8608182668685913
+            },
+            {
+                "name": "luxury",
+                "value": 0.8489141464233398
+            },
+            {
+                "name": "art",
+                "value": 0.841711163520813
+            },
+            {
+                "name": "retro",
+                "value": 0.8128892183303833
+            },
+            {
+                "name": "symbol",
+                "value": 0.8105465173721313
+            },
+            {
+                "name": "traditional",
+                "value": 0.8077304363250732
+            },
+            {
+                "name": "disjunct",
+                "value": 0.8022173047065735
+            },
+            {
+                "name": "style",
+                "value": 0.7993642091751099
+            },
+            {
+                "name": "illustration",
+                "value": 0.7990293502807617
+            },
+            {
+                "name": "modern",
+                "value": 0.7953289747238159
+            },
+            {
+                "name": "steel",
+                "value": 0.7942603826522827
+            }
+        ]
+    },
+    {
+        "uuid": "866ee15b-0e50-4984-92d5-c8fac6e5eb4d",
+        "tags": [
+            {
+                "name": "paper",
+                "value": 0.9739636778831482
+            },
+            {
+                "name": "cardboard",
+                "value": 0.9712175726890564
+            },
+            {
+                "name": "retro",
+                "value": 0.9710378646850586
+            },
+            {
+                "name": "no person",
+                "value": 0.97095787525177
+            },
+            {
+                "name": "recycling",
+                "value": 0.9511153697967529
+            },
+            {
+                "name": "empty",
+                "value": 0.943710446357727
+            },
+            {
+                "name": "wood",
+                "value": 0.8688524961471558
+            },
+            {
+                "name": "sepia",
+                "value": 0.8587993383407593
+            },
+            {
+                "name": "art",
+                "value": 0.8560366630554199
+            },
+            {
+                "name": "dirty",
+                "value": 0.8399878740310669
+            },
+            {
+                "name": "fashion",
+                "value": 0.821958065032959
+            },
+            {
+                "name": "shopping",
+                "value": 0.8055117130279541
+            },
+            {
+                "name": "wear",
+                "value": 0.7935070991516113
+            },
+            {
+                "name": "corrugated",
+                "value": 0.78495854139328
+            },
+            {
+                "name": "stripe",
+                "value": 0.7741813659667969
+            },
+            {
+                "name": "old",
+                "value": 0.7666866779327393
+            },
+            {
+                "name": "antique",
+                "value": 0.7582806348800659
+            },
+            {
+                "name": "canvas",
+                "value": 0.7575837969779968
+            },
+            {
+                "name": "texture",
+                "value": 0.75502610206604
+            },
+            {
+                "name": "leather",
+                "value": 0.7314006686210632
+            }
+        ]
+    },
+    {
+        "uuid": "87849a35-28d7-4642-8183-359c4a29c238",
+        "tags": [
+            {
+                "name": "technology",
+                "value": 0.987321674823761
+            },
+            {
+                "name": "portable",
+                "value": 0.9863578081130981
+            },
+            {
+                "name": "wireless",
+                "value": 0.9801735877990723
+            },
+            {
+                "name": "telephone",
+                "value": 0.9780223369598389
+            },
+            {
+                "name": "isolated",
+                "value": 0.9764498472213745
+            },
+            {
+                "name": "display",
+                "value": 0.975354790687561
+            },
+            {
+                "name": "appliance",
+                "value": 0.9743847846984863
+            },
+            {
+                "name": "electronics",
+                "value": 0.9736443758010864
+            },
+            {
+                "name": "screen",
+                "value": 0.9727839231491089
+            },
+            {
+                "name": "equipment",
+                "value": 0.968591570854187
+            },
+            {
+                "name": "no person",
+                "value": 0.950615644454956
+            },
+            {
+                "name": "device",
+                "value": 0.9486691951751709
+            },
+            {
+                "name": "touch",
+                "value": 0.9446362257003784
+            },
+            {
+                "name": "internet",
+                "value": 0.942753255367279
+            },
+            {
+                "name": "connection",
+                "value": 0.9211182594299316
+            },
+            {
+                "name": "cellular telephone",
+                "value": 0.9206867814064026
+            },
+            {
+                "name": "machinery",
+                "value": 0.91524338722229
+            },
+            {
+                "name": "pad",
+                "value": 0.9017252922058105
+            },
+            {
+                "name": "data",
+                "value": 0.8938568830490112
+            },
+            {
+                "name": "computer",
+                "value": 0.8795587420463562
+            }
+        ]
+    },
+    {
+        "uuid": "8a2e0ee6-d2ae-4148-868d-570641314ec3",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9970971345901489
+            },
+            {
+                "name": "isolated",
+                "value": 0.9852820634841919
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9638302326202393
+            },
+            {
+                "name": "graphic design",
+                "value": 0.9478052258491516
+            },
+            {
+                "name": "plastic",
+                "value": 0.9347140789031982
+            },
+            {
+                "name": "family",
+                "value": 0.9314894676208496
+            },
+            {
+                "name": "fashion",
+                "value": 0.9264010190963745
+            },
+            {
+                "name": "equipment",
+                "value": 0.8868111371994019
+            },
+            {
+                "name": "machinery",
+                "value": 0.8593171834945679
+            },
+            {
+                "name": "luxury",
+                "value": 0.8507587909698486
+            },
+            {
+                "name": "indoors",
+                "value": 0.8427520990371704
+            },
+            {
+                "name": "retro",
+                "value": 0.8405942320823669
+            },
+            {
+                "name": "disjunct",
+                "value": 0.8364605903625488
+            },
+            {
+                "name": "safety",
+                "value": 0.8363319635391235
+            },
+            {
+                "name": "elegant",
+                "value": 0.8313580751419067
+            },
+            {
+                "name": "business",
+                "value": 0.8269010782241821
+            },
+            {
+                "name": "security",
+                "value": 0.8251824378967285
+            },
+            {
+                "name": "stripe",
+                "value": 0.8182742595672607
+            },
+            {
+                "name": "traditional",
+                "value": 0.8162769079208374
+            },
+            {
+                "name": "interior design",
+                "value": 0.8142389059066772
+            }
+        ]
+    },
+    {
+        "uuid": "a2b52937-1810-4b55-8014-d9f5bf5406f0",
+        "tags": [
+            {
+                "name": "chalk",
+                "value": 0.9984161257743835
+            },
+            {
+                "name": "chalkboard",
+                "value": 0.9972957372665405
+            },
+            {
+                "name": "display",
+                "value": 0.9919745922088623
+            },
+            {
+                "name": "school",
+                "value": 0.9819229245185852
+            },
+            {
+                "name": "picture frame",
+                "value": 0.9785755276679993
+            },
+            {
+                "name": "education",
+                "value": 0.9780625104904175
+            },
+            {
+                "name": "text",
+                "value": 0.9653874039649963
+            },
+            {
+                "name": "writing",
+                "value": 0.9622294306755066
+            },
+            {
+                "name": "retro",
+                "value": 0.9620295763015747
+            },
+            {
+                "name": "vintage",
+                "value": 0.9589521288871765
+            },
+            {
+                "name": "slate tablet",
+                "value": 0.9535963535308838
+            },
+            {
+                "name": "handwriting",
+                "value": 0.9534604549407959
+            },
+            {
+                "name": "wood",
+                "value": 0.943213701248169
+            },
+            {
+                "name": "sign",
+                "value": 0.9412918090820312
+            },
+            {
+                "name": "old",
+                "value": 0.923111081123352
+            },
+            {
+                "name": "texture",
+                "value": 0.9093548059463501
+            },
+            {
+                "name": "dirty",
+                "value": 0.8997702598571777
+            },
+            {
+                "name": "class",
+                "value": 0.8962972164154053
+            },
+            {
+                "name": "motivation",
+                "value": 0.8778811097145081
+            },
+            {
+                "name": "classroom",
+                "value": 0.8776179552078247
+            }
+        ]
+    },
+    {
+        "uuid": "a8d88bc8-f010-4b58-b2da-fed8c0fc0cbb",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9946993589401245
+            },
+            {
+                "name": "graphic design",
+                "value": 0.9893349409103394
+            },
+            {
+                "name": "stripe",
+                "value": 0.9657409191131592
+            },
+            {
+                "name": "paper",
+                "value": 0.944533109664917
+            },
+            {
+                "name": "interior design",
+                "value": 0.9235426187515259
+            },
+            {
+                "name": "empty",
+                "value": 0.9213886857032776
+            },
+            {
+                "name": "bright",
+                "value": 0.9118272662162781
+            },
+            {
+                "name": "retro",
+                "value": 0.9106489419937134
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9038423299789429
+            },
+            {
+                "name": "art",
+                "value": 0.8831514120101929
+            },
+            {
+                "name": "wallpaper",
+                "value": 0.8488865494728088
+            },
+            {
+                "name": "shining",
+                "value": 0.8479788899421692
+            },
+            {
+                "name": "vector",
+                "value": 0.8306781649589539
+            },
+            {
+                "name": "creativity",
+                "value": 0.8200570940971375
+            },
+            {
+                "name": "classic",
+                "value": 0.819368839263916
+            },
+            {
+                "name": "indoors",
+                "value": 0.8067272901535034
+            },
+            {
+                "name": "artistic",
+                "value": 0.805283784866333
+            },
+            {
+                "name": "illustration",
+                "value": 0.8044862747192383
+            },
+            {
+                "name": "design",
+                "value": 0.8043327331542969
+            },
+            {
+                "name": "abstract",
+                "value": 0.801738977432251
+            }
+        ]
+    },
+    {
+        "uuid": "b51dc9b2-6186-4fd7-9a77-aacd4657eeba",
+        "tags": [
+            {
+                "name": "balloon",
+                "value": 0.9765630960464478
+            },
+            {
+                "name": "no person",
+                "value": 0.9545888900756836
+            },
+            {
+                "name": "love",
+                "value": 0.9516394138336182
+            },
+            {
+                "name": "anatomy",
+                "value": 0.9498933553695679
+            },
+            {
+                "name": "helium",
+                "value": 0.9487292170524597
+            },
+            {
+                "name": "shining",
+                "value": 0.9345411062240601
+            },
+            {
+                "name": "health",
+                "value": 0.9323695302009583
+            },
+            {
+                "name": "bright",
+                "value": 0.9214497208595276
+            },
+            {
+                "name": "disjunct",
+                "value": 0.9086912870407104
+            },
+            {
+                "name": "birthday",
+                "value": 0.907707691192627
+            },
+            {
+                "name": "medicine",
+                "value": 0.8781193494796753
+            },
+            {
+                "name": "healthcare",
+                "value": 0.8742784857749939
+            },
+            {
+                "name": "illustration",
+                "value": 0.8681961297988892
+            },
+            {
+                "name": "art",
+                "value": 0.8562701940536499
+            },
+            {
+                "name": "isolated",
+                "value": 0.8552038669586182
+            },
+            {
+                "name": "empty",
+                "value": 0.8549811244010925
+            },
+            {
+                "name": "plastic",
+                "value": 0.8516401648521423
+            },
+            {
+                "name": "soap",
+                "value": 0.8397407531738281
+            },
+            {
+                "name": "air",
+                "value": 0.8338310718536377
+            },
+            {
+                "name": "fun",
+                "value": 0.833379864692688
+            }
+        ]
+    },
+    {
+        "uuid": "ba922781-61cc-4cf6-bc9a-40ef8f2a34fa",
+        "tags": [
+            {
+                "name": "gold",
+                "value": 0.9782627820968628
+            },
+            {
+                "name": "no person",
+                "value": 0.9681954383850098
+            },
+            {
+                "name": "shining",
+                "value": 0.9235602617263794
+            },
+            {
+                "name": "glazed",
+                "value": 0.8959344625473022
+            },
+            {
+                "name": "art",
+                "value": 0.8594856262207031
+            },
+            {
+                "name": "metallic",
+                "value": 0.8405649662017822
+            },
+            {
+                "name": "steel",
+                "value": 0.823516845703125
+            },
+            {
+                "name": "desktop",
+                "value": 0.8169138431549072
+            },
+            {
+                "name": "luxury",
+                "value": 0.8119504451751709
+            },
+            {
+                "name": "machinery",
+                "value": 0.7926634550094604
+            },
+            {
+                "name": "symbol",
+                "value": 0.7921125292778015
+            },
+            {
+                "name": "design",
+                "value": 0.7866150736808777
+            },
+            {
+                "name": "gold piece",
+                "value": 0.786014974117279
+            },
+            {
+                "name": "bright",
+                "value": 0.7837135791778564
+            },
+            {
+                "name": "technology",
+                "value": 0.7804398536682129
+            },
+            {
+                "name": "illustration",
+                "value": 0.779355525970459
+            },
+            {
+                "name": "science",
+                "value": 0.7789884805679321
+            },
+            {
+                "name": "reflection",
+                "value": 0.7681943774223328
+            },
+            {
+                "name": "wealth",
+                "value": 0.7679186463356018
+            },
+            {
+                "name": "pipe",
+                "value": 0.7480223178863525
+            }
+        ]
+    },
+    {
+        "uuid": "bd2b5ca0-8c57-4afc-93d0-e9b66a4d05f4",
+        "tags": [
+            {
+                "name": "armor",
+                "value": 0.9976059198379517
+            },
+            {
+                "name": "forthcoming",
+                "value": 0.9946566224098206
+            },
+            {
+                "name": "protection",
+                "value": 0.9922115802764893
+            },
+            {
+                "name": "no person",
+                "value": 0.9890933632850647
+            },
+            {
+                "name": "fiction",
+                "value": 0.9820109009742737
+            },
+            {
+                "name": "security",
+                "value": 0.9752830266952515
+            },
+            {
+                "name": "isolated",
+                "value": 0.9744023680686951
+            },
+            {
+                "name": "Gothic",
+                "value": 0.9702259302139282
+            },
+            {
+                "name": "graphic design",
+                "value": 0.9700144529342651
+            },
+            {
+                "name": "knight",
+                "value": 0.9693560600280762
+            },
+            {
+                "name": "war",
+                "value": 0.9677879810333252
+            },
+            {
+                "name": "futuristic",
+                "value": 0.9664161205291748
+            },
+            {
+                "name": "android",
+                "value": 0.966284990310669
+            },
+            {
+                "name": "steel",
+                "value": 0.9654004573822021
+            },
+            {
+                "name": "military",
+                "value": 0.9601033926010132
+            },
+            {
+                "name": "safety",
+                "value": 0.9593634605407715
+            },
+            {
+                "name": "glazed",
+                "value": 0.9588847756385803
+            },
+            {
+                "name": "shield",
+                "value": 0.9581040143966675
+            },
+            {
+                "name": "robot",
+                "value": 0.9578613042831421
+            },
+            {
+                "name": "intelligence",
+                "value": 0.9554452300071716
+            }
+        ]
+    },
+    {
+        "uuid": "be4000e6-7a61-403d-a179-f95ecca2bb04",
+        "tags": [
+            {
+                "name": "electronics",
+                "value": 0.9969267845153809
+            },
+            {
+                "name": "isolated",
+                "value": 0.9964660406112671
+            },
+            {
+                "name": "equipment",
+                "value": 0.9952617883682251
+            },
+            {
+                "name": "audio",
+                "value": 0.9880301356315613
+            },
+            {
+                "name": "portable",
+                "value": 0.9837946891784668
+            },
+            {
+                "name": "no person",
+                "value": 0.9806660413742065
+            },
+            {
+                "name": "technology",
+                "value": 0.9768506288528442
+            },
+            {
+                "name": "sound",
+                "value": 0.9735891222953796
+            },
+            {
+                "name": "plastic",
+                "value": 0.9676032662391663
+            },
+            {
+                "name": "appliance",
+                "value": 0.9631145000457764
+            },
+            {
+                "name": "device",
+                "value": 0.958027720451355
+            },
+            {
+                "name": "service",
+                "value": 0.9560681581497192
+            },
+            {
+                "name": "machinery",
+                "value": 0.954390823841095
+            },
+            {
+                "name": "stereo",
+                "value": 0.9539481401443481
+            },
+            {
+                "name": "music",
+                "value": 0.9467809796333313
+            },
+            {
+                "name": "speaker",
+                "value": 0.9444245100021362
+            },
+            {
+                "name": "power",
+                "value": 0.9402477741241455
+            },
+            {
+                "name": "phonograph record",
+                "value": 0.928190290927887
+            },
+            {
+                "name": "wireless",
+                "value": 0.9231060743331909
+            },
+            {
+                "name": "wire",
+                "value": 0.8836108446121216
+            }
+        ]
+    },
+    {
+        "uuid": "be90a3dc-3d9e-42d1-8993-85a5be7945d0",
+        "tags": [
+            {
+                "name": "time",
+                "value": 0.9993196725845337
+            },
+            {
+                "name": "clock",
+                "value": 0.9991564154624939
+            },
+            {
+                "name": "watch",
+                "value": 0.9976688623428345
+            },
+            {
+                "name": "minute",
+                "value": 0.9974566102027893
+            },
+            {
+                "name": "deadline",
+                "value": 0.9967550039291382
+            },
+            {
+                "name": "alarm clock",
+                "value": 0.9943445920944214
+            },
+            {
+                "name": "timer",
+                "value": 0.992333173751831
+            },
+            {
+                "name": "countdown",
+                "value": 0.9903957843780518
+            },
+            {
+                "name": "analogue",
+                "value": 0.9802707433700562
+            },
+            {
+                "name": "wake",
+                "value": 0.9720110893249512
+            },
+            {
+                "name": "midnight",
+                "value": 0.9702306985855103
+            },
+            {
+                "name": "noon",
+                "value": 0.9673054218292236
+            },
+            {
+                "name": "instrument",
+                "value": 0.9654425978660583
+            },
+            {
+                "name": "late",
+                "value": 0.9621998071670532
+            },
+            {
+                "name": "number",
+                "value": 0.9574571847915649
+            },
+            {
+                "name": "precision",
+                "value": 0.9529017210006714
+            },
+            {
+                "name": "timepiece",
+                "value": 0.9514267444610596
+            },
+            {
+                "name": "antique",
+                "value": 0.9415470957756042
+            },
+            {
+                "name": "wake up",
+                "value": 0.9413176774978638
+            },
+            {
+                "name": "stopwatch",
+                "value": 0.9388763904571533
+            }
+        ]
+    },
+    {
+        "uuid": "c17fde9c-6922-4749-94d0-4dc5badaffda",
+        "tags": [
+            {
+                "name": "sketch",
+                "value": 0.9562392234802246
+            },
+            {
+                "name": "fun",
+                "value": 0.956022322177887
+            },
+            {
+                "name": "illustration",
+                "value": 0.9536675214767456
+            },
+            {
+                "name": "child",
+                "value": 0.94438636302948
+            },
+            {
+                "name": "art",
+                "value": 0.9355882406234741
+            },
+            {
+                "name": "cute",
+                "value": 0.9179377555847168
+            },
+            {
+                "name": "funny",
+                "value": 0.9175280332565308
+            },
+            {
+                "name": "traditional",
+                "value": 0.9144891500473022
+            },
+            {
+                "name": "man",
+                "value": 0.9062921404838562
+            },
+            {
+                "name": "character",
+                "value": 0.9055100083351135
+            },
+            {
+                "name": "vector",
+                "value": 0.9016385078430176
+            },
+            {
+                "name": "no person",
+                "value": 0.8676524758338928
+            },
+            {
+                "name": "graphic",
+                "value": 0.864149808883667
+            },
+            {
+                "name": "figure",
+                "value": 0.8637770414352417
+            },
+            {
+                "name": "Christmas",
+                "value": 0.824964165687561
+            },
+            {
+                "name": "entertainment",
+                "value": 0.824830949306488
+            },
+            {
+                "name": "retro",
+                "value": 0.8105800747871399
+            },
+            {
+                "name": "stripe",
+                "value": 0.8003917932510376
+            },
+            {
+                "name": "costume",
+                "value": 0.7959158420562744
+            },
+            {
+                "name": "graphic design",
+                "value": 0.7794307470321655
+            }
+        ]
+    },
+    {
+        "uuid": "c6ab50bc-b8fd-4349-98e8-1dd6973d0c75",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9885475635528564
+            },
+            {
+                "name": "pasture",
+                "value": 0.9818557500839233
+            },
+            {
+                "name": "pumpkin",
+                "value": 0.9792470335960388
+            },
+            {
+                "name": "disjunct",
+                "value": 0.974946141242981
+            },
+            {
+                "name": "desktop",
+                "value": 0.9743733406066895
+            },
+            {
+                "name": "fall",
+                "value": 0.9723464846611023
+            },
+            {
+                "name": "Halloween",
+                "value": 0.9637049436569214
+            },
+            {
+                "name": "nature",
+                "value": 0.9511104822158813
+            },
+            {
+                "name": "food",
+                "value": 0.9489911198616028
+            },
+            {
+                "name": "isolated",
+                "value": 0.9387362003326416
+            },
+            {
+                "name": "gourd",
+                "value": 0.9317858219146729
+            },
+            {
+                "name": "vegetable",
+                "value": 0.926753044128418
+            },
+            {
+                "name": "isolate",
+                "value": 0.9260070323944092
+            },
+            {
+                "name": "farming",
+                "value": 0.9236512780189514
+            },
+            {
+                "name": "round out",
+                "value": 0.9132315516471863
+            },
+            {
+                "name": "squash vine",
+                "value": 0.8953245878219604
+            },
+            {
+                "name": "gourd (vegetable)",
+                "value": 0.8888542652130127
+            },
+            {
+                "name": "one",
+                "value": 0.8701034784317017
+            },
+            {
+                "name": "healthy",
+                "value": 0.870071530342102
+            },
+            {
+                "name": "season",
+                "value": 0.8683559894561768
+            }
+        ]
+    },
+    {
+        "uuid": "cad57f1a-0ff7-4b19-a410-06aa0f2537bb",
+        "tags": [
+            {
+                "name": "leather",
+                "value": 0.9998250603675842
+            },
+            {
+                "name": "foot",
+                "value": 0.9982428550720215
+            },
+            {
+                "name": "footwear",
+                "value": 0.998000979423523
+            },
+            {
+                "name": "fashion",
+                "value": 0.9974263906478882
+            },
+            {
+                "name": "shoe",
+                "value": 0.996849775314331
+            },
+            {
+                "name": "wear",
+                "value": 0.9966880083084106
+            },
+            {
+                "name": "isolated",
+                "value": 0.9939050674438477
+            },
+            {
+                "name": "classic",
+                "value": 0.9939011931419373
+            },
+            {
+                "name": "sneakers",
+                "value": 0.9935200214385986
+            },
+            {
+                "name": "rubberize",
+                "value": 0.9934475421905518
+            },
+            {
+                "name": "couple together",
+                "value": 0.9931596517562866
+            },
+            {
+                "name": "lace tie",
+                "value": 0.9931216239929199
+            },
+            {
+                "name": "shoelace",
+                "value": 0.9873183369636536
+            },
+            {
+                "name": "sole",
+                "value": 0.9848585724830627
+            },
+            {
+                "name": "casual",
+                "value": 0.9690610766410828
+            },
+            {
+                "name": "formalwear",
+                "value": 0.9672074913978577
+            },
+            {
+                "name": "no person",
+                "value": 0.9557153582572937
+            },
+            {
+                "name": "elegant",
+                "value": 0.9521207809448242
+            },
+            {
+                "name": "modern era",
+                "value": 0.9407355189323425
+            },
+            {
+                "name": "shining",
+                "value": 0.9338997602462769
+            }
+        ]
+    },
+    {
+        "uuid": "dfe0c4a5-a96b-46ed-a687-956b3e2a901e",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9860084056854248
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9556859135627747
+            },
+            {
+                "name": "dark",
+                "value": 0.9375556707382202
+            },
+            {
+                "name": "desktop",
+                "value": 0.9338797330856323
+            },
+            {
+                "name": "empty",
+                "value": 0.9305838346481323
+            },
+            {
+                "name": "design",
+                "value": 0.9127309918403625
+            },
+            {
+                "name": "light",
+                "value": 0.9042264223098755
+            },
+            {
+                "name": "abstract",
+                "value": 0.9006435871124268
+            },
+            {
+                "name": "blank",
+                "value": 0.8988402485847473
+            },
+            {
+                "name": "art",
+                "value": 0.8907008171081543
+            },
+            {
+                "name": "insubstantial",
+                "value": 0.8861342072486877
+            },
+            {
+                "name": "space",
+                "value": 0.8739772439002991
+            },
+            {
+                "name": "modern",
+                "value": 0.8720612525939941
+            },
+            {
+                "name": "nature",
+                "value": 0.869647741317749
+            },
+            {
+                "name": "spotlight",
+                "value": 0.8688424825668335
+            },
+            {
+                "name": "retro",
+                "value": 0.867267370223999
+            },
+            {
+                "name": "square",
+                "value": 0.8559707403182983
+            },
+            {
+                "name": "indoors",
+                "value": 0.8527273535728455
+            },
+            {
+                "name": "paper",
+                "value": 0.8427464962005615
+            },
+            {
+                "name": "display",
+                "value": 0.833073616027832
+            }
+        ]
+    },
+    {
+        "uuid": "e6f2c588-a210-4b59-975d-d520e31eeadc",
+        "tags": [
+            {
+                "name": "page",
+                "value": 0.999504804611206
+            },
+            {
+                "name": "booklet",
+                "value": 0.9986157417297363
+            },
+            {
+                "name": "layout",
+                "value": 0.9966225028038025
+            },
+            {
+                "name": "magazine",
+                "value": 0.9946833848953247
+            },
+            {
+                "name": "cover",
+                "value": 0.9932314157485962
+            },
+            {
+                "name": "paper",
+                "value": 0.9920127391815186
+            },
+            {
+                "name": "template",
+                "value": 0.9919209480285645
+            },
+            {
+                "name": "no person",
+                "value": 0.9883017539978027
+            },
+            {
+                "name": "presentation",
+                "value": 0.9868724346160889
+            },
+            {
+                "name": "catalog",
+                "value": 0.9858682155609131
+            },
+            {
+                "name": "facts",
+                "value": 0.9792873859405518
+            },
+            {
+                "name": "book",
+                "value": 0.9688988327980042
+            },
+            {
+                "name": "literature",
+                "value": 0.9675161242485046
+            },
+            {
+                "name": "education",
+                "value": 0.9618860483169556
+            },
+            {
+                "name": "information",
+                "value": 0.9614262580871582
+            },
+            {
+                "name": "banner",
+                "value": 0.9546868801116943
+            },
+            {
+                "name": "bookmark",
+                "value": 0.9471248984336853
+            },
+            {
+                "name": "advertising",
+                "value": 0.9458225965499878
+            },
+            {
+                "name": "blank",
+                "value": 0.940504789352417
+            },
+            {
+                "name": "stationery",
+                "value": 0.9356216192245483
+            }
+        ]
+    },
+    {
+        "uuid": "e9d2eb8f-0893-4fe5-b6a3-f9e247ca27b2",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9955481290817261
+            },
+            {
+                "name": "love",
+                "value": 0.9847844243049622
+            },
+            {
+                "name": "nature",
+                "value": 0.9774491786956787
+            },
+            {
+                "name": "romance",
+                "value": 0.9750267863273621
+            },
+            {
+                "name": "rose",
+                "value": 0.9630163311958313
+            },
+            {
+                "name": "paper",
+                "value": 0.9510743618011475
+            },
+            {
+                "name": "disjunct",
+                "value": 0.9503285884857178
+            },
+            {
+                "name": "elegant",
+                "value": 0.9325435161590576
+            },
+            {
+                "name": "delicate",
+                "value": 0.9322983622550964
+            },
+            {
+                "name": "flower",
+                "value": 0.9294241666793823
+            },
+            {
+                "name": "wedding",
+                "value": 0.9285492897033691
+            },
+            {
+                "name": "leaf",
+                "value": 0.9143456220626831
+            },
+            {
+                "name": "satin",
+                "value": 0.9055553078651428
+            },
+            {
+                "name": "empty",
+                "value": 0.898531436920166
+            },
+            {
+                "name": "bright",
+                "value": 0.8858510255813599
+            },
+            {
+                "name": "shining",
+                "value": 0.8513690233230591
+            },
+            {
+                "name": "silk",
+                "value": 0.8220081329345703
+            },
+            {
+                "name": "simplicity",
+                "value": 0.7995409369468689
+            },
+            {
+                "name": "summer",
+                "value": 0.7898322939872742
+            },
+            {
+                "name": "trash",
+                "value": 0.7893943786621094
+            }
+        ]
+    },
+    {
+        "uuid": "eabdc8ab-4062-4cca-8cc9-36066cdd29b5",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9957739114761353
+            },
+            {
+                "name": "cactus",
+                "value": 0.9918829202651978
+            },
+            {
+                "name": "pot",
+                "value": 0.9845815896987915
+            },
+            {
+                "name": "nature",
+                "value": 0.9739266633987427
+            },
+            {
+                "name": "growth",
+                "value": 0.9667816162109375
+            },
+            {
+                "name": "summer",
+                "value": 0.9498165845870972
+            },
+            {
+                "name": "health",
+                "value": 0.9473782777786255
+            },
+            {
+                "name": "outdoors",
+                "value": 0.9442862272262573
+            },
+            {
+                "name": "sharp",
+                "value": 0.9412788152694702
+            },
+            {
+                "name": "leaf",
+                "value": 0.9408614039421082
+            },
+            {
+                "name": "tropical",
+                "value": 0.9229554533958435
+            },
+            {
+                "name": "flora",
+                "value": 0.9068110585212708
+            },
+            {
+                "name": "bright",
+                "value": 0.9013825058937073
+            },
+            {
+                "name": "juice",
+                "value": 0.9010540246963501
+            },
+            {
+                "name": "pottery",
+                "value": 0.8868787288665771
+            },
+            {
+                "name": "stripe",
+                "value": 0.857284426689148
+            },
+            {
+                "name": "indoors",
+                "value": 0.8564810156822205
+            },
+            {
+                "name": "glass",
+                "value": 0.8542749881744385
+            },
+            {
+                "name": "flower",
+                "value": 0.8387854099273682
+            },
+            {
+                "name": "vertical",
+                "value": 0.832800567150116
+            }
+        ]
+    },
+    {
+        "uuid": "f2d7c88b-15e2-47d5-815a-13f2fcd5164f",
+        "tags": [
+            {
+                "name": "isolated",
+                "value": 0.9891753196716309
+            },
+            {
+                "name": "electronics",
+                "value": 0.9856269955635071
+            },
+            {
+                "name": "no person",
+                "value": 0.9844743013381958
+            },
+            {
+                "name": "equipment",
+                "value": 0.9627231955528259
+            },
+            {
+                "name": "empty",
+                "value": 0.9476205110549927
+            },
+            {
+                "name": "flat",
+                "value": 0.9380021095275879
+            },
+            {
+                "name": "technology",
+                "value": 0.9330172538757324
+            },
+            {
+                "name": "family",
+                "value": 0.9327057003974915
+            },
+            {
+                "name": "box",
+                "value": 0.9292260408401489
+            },
+            {
+                "name": "appliance",
+                "value": 0.9288797378540039
+            },
+            {
+                "name": "cardboard",
+                "value": 0.9177873730659485
+            },
+            {
+                "name": "machinery",
+                "value": 0.9148105382919312
+            },
+            {
+                "name": "retro",
+                "value": 0.9060003757476807
+            },
+            {
+                "name": "monitor",
+                "value": 0.9027432203292847
+            },
+            {
+                "name": "paper",
+                "value": 0.8931102752685547
+            },
+            {
+                "name": "contemporary",
+                "value": 0.8779829144477844
+            },
+            {
+                "name": "business",
+                "value": 0.8741950988769531
+            },
+            {
+                "name": "screen",
+                "value": 0.867714524269104
+            },
+            {
+                "name": "wireless",
+                "value": 0.8513187170028687
+            },
+            {
+                "name": "television",
+                "value": 0.8494645357131958
+            }
+        ]
+    },
+    {
+        "uuid": "f4078297-d14f-4bf1-8836-001adead51bb",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9941525459289551
+            },
+            {
+                "name": "paper",
+                "value": 0.9655672311782837
+            },
+            {
+                "name": "graphic design",
+                "value": 0.9291701316833496
+            },
+            {
+                "name": "cardboard",
+                "value": 0.914336621761322
+            },
+            {
+                "name": "empty",
+                "value": 0.9119022488594055
+            },
+            {
+                "name": "peak",
+                "value": 0.8994960784912109
+            },
+            {
+                "name": "isolated",
+                "value": 0.8823809623718262
+            },
+            {
+                "name": "merchandise",
+                "value": 0.8726019859313965
+            },
+            {
+                "name": "business",
+                "value": 0.8617181777954102
+            },
+            {
+                "name": "disjunct",
+                "value": 0.8535294532775879
+            },
+            {
+                "name": "one",
+                "value": 0.8395894765853882
+            },
+            {
+                "name": "art",
+                "value": 0.8218650817871094
+            },
+            {
+                "name": "simplicity",
+                "value": 0.8057955503463745
+            },
+            {
+                "name": "triangle",
+                "value": 0.8023747801780701
+            },
+            {
+                "name": "winter",
+                "value": 0.8009015321731567
+            },
+            {
+                "name": "facts",
+                "value": 0.7863231897354126
+            },
+            {
+                "name": "clean",
+                "value": 0.7741937637329102
+            },
+            {
+                "name": "conceptual",
+                "value": 0.7538492679595947
+            },
+            {
+                "name": "Christmas",
+                "value": 0.753514289855957
+            },
+            {
+                "name": "corporation",
+                "value": 0.7391805648803711
+            }
+        ]
+    },
+    {
+        "uuid": "f599dec5-6b97-4994-8fd7-263bd5619a79",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.994857668876648
+            },
+            {
+                "name": "cardboard",
+                "value": 0.9918465614318848
+            },
+            {
+                "name": "Christmas",
+                "value": 0.9910829067230225
+            },
+            {
+                "name": "paper",
+                "value": 0.9910148978233337
+            },
+            {
+                "name": "dirty",
+                "value": 0.9652038812637329
+            },
+            {
+                "name": "empty",
+                "value": 0.9628954529762268
+            },
+            {
+                "name": "bandaged",
+                "value": 0.9442770481109619
+            },
+            {
+                "name": "recycling",
+                "value": 0.9427222013473511
+            },
+            {
+                "name": "old",
+                "value": 0.9425578713417053
+            },
+            {
+                "name": "parchment",
+                "value": 0.932086706161499
+            },
+            {
+                "name": "winter",
+                "value": 0.9281179904937744
+            },
+            {
+                "name": "trash",
+                "value": 0.92039954662323
+            },
+            {
+                "name": "retro",
+                "value": 0.9157531261444092
+            },
+            {
+                "name": "snow",
+                "value": 0.906672477722168
+            },
+            {
+                "name": "rough",
+                "value": 0.8904213309288025
+            },
+            {
+                "name": "worn",
+                "value": 0.888035237789154
+            },
+            {
+                "name": "rope",
+                "value": 0.8792343735694885
+            },
+            {
+                "name": "antique",
+                "value": 0.8772732019424438
+            },
+            {
+                "name": "wrap",
+                "value": 0.8738446235656738
+            },
+            {
+                "name": "interior design",
+                "value": 0.8696874380111694
+            }
+        ]
+    },
+    {
+        "uuid": "f883c28e-99c2-4ae2-bbee-668bfdef0650",
+        "tags": [
+            {
+                "name": "fashion",
+                "value": 0.9867724776268005
+            },
+            {
+                "name": "craft",
+                "value": 0.9843438863754272
+            },
+            {
+                "name": "yarn",
+                "value": 0.9829298257827759
+            },
+            {
+                "name": "handmade",
+                "value": 0.9743524789810181
+            },
+            {
+                "name": "shape",
+                "value": 0.9728333950042725
+            },
+            {
+                "name": "design",
+                "value": 0.9721230864524841
+            },
+            {
+                "name": "heart",
+                "value": 0.9686473608016968
+            },
+            {
+                "name": "pattern",
+                "value": 0.9650596380233765
+            },
+            {
+                "name": "textile",
+                "value": 0.9638819694519043
+            },
+            {
+                "name": "texture",
+                "value": 0.9635882377624512
+            },
+            {
+                "name": "lace",
+                "value": 0.962416410446167
+            },
+            {
+                "name": "fabric",
+                "value": 0.958652675151825
+            },
+            {
+                "name": "desktop",
+                "value": 0.9478751420974731
+            },
+            {
+                "name": "symbol",
+                "value": 0.9443690776824951
+            },
+            {
+                "name": "sewing",
+                "value": 0.9328323602676392
+            },
+            {
+                "name": "needlework",
+                "value": 0.9293233156204224
+            },
+            {
+                "name": "weaving",
+                "value": 0.9278062582015991
+            },
+            {
+                "name": "decoration",
+                "value": 0.9252222180366516
+            },
+            {
+                "name": "disjunct",
+                "value": 0.9214017391204834
+            },
+            {
+                "name": "color",
+                "value": 0.913938581943512
+            }
+        ]
+    },
+    {
+        "uuid": "f887c9ca-2e75-43ec-a603-518ca83dc038",
+        "tags": [
+            {
+                "name": "retro",
+                "value": 0.9927888512611389
+            },
+            {
+                "name": "rangefinder",
+                "value": 0.9908880591392517
+            },
+            {
+                "name": "lens",
+                "value": 0.9903590679168701
+            },
+            {
+                "name": "no person",
+                "value": 0.9879035353660583
+            },
+            {
+                "name": "shutter",
+                "value": 0.9876278638839722
+            },
+            {
+                "name": "classic",
+                "value": 0.9866055250167847
+            },
+            {
+                "name": "electronics",
+                "value": 0.9832253456115723
+            },
+            {
+                "name": "old",
+                "value": 0.9815105199813843
+            },
+            {
+                "name": "monochrome",
+                "value": 0.9800249338150024
+            },
+            {
+                "name": "analogue",
+                "value": 0.9786880016326904
+            },
+            {
+                "name": "aperture",
+                "value": 0.9778677225112915
+            },
+            {
+                "name": "antique",
+                "value": 0.9771127700805664
+            },
+            {
+                "name": "analog",
+                "value": 0.9753000140190125
+            },
+            {
+                "name": "chrome",
+                "value": 0.9675157070159912
+            },
+            {
+                "name": "obsolete",
+                "value": 0.958644449710846
+            },
+            {
+                "name": "monochromatic",
+                "value": 0.9529389142990112
+            },
+            {
+                "name": "mono",
+                "value": 0.9497857093811035
+            },
+            {
+                "name": "technology",
+                "value": 0.9412896633148193
+            },
+            {
+                "name": "equipment",
+                "value": 0.9316874742507935
+            },
+            {
+                "name": "nostalgia",
+                "value": 0.9304620027542114
+            }
+        ]
+    },
+    {
+        "uuid": "fe757c2e-89b9-4eaa-a5c4-ec222deb5804",
+        "tags": [
+            {
+                "name": "graphic design",
+                "value": 0.9919745922088623
+            },
+            {
+                "name": "bright",
+                "value": 0.9876896739006042
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9754581451416016
+            },
+            {
+                "name": "no person",
+                "value": 0.9745904207229614
+            },
+            {
+                "name": "futuristic",
+                "value": 0.9690893292427063
+            },
+            {
+                "name": "shining",
+                "value": 0.9524871110916138
+            },
+            {
+                "name": "artistic",
+                "value": 0.9507842063903809
+            },
+            {
+                "name": "creativity",
+                "value": 0.9461047053337097
+            },
+            {
+                "name": "wallpaper",
+                "value": 0.9365113377571106
+            },
+            {
+                "name": "smooth",
+                "value": 0.9312788844108582
+            },
+            {
+                "name": "abstract",
+                "value": 0.9310396909713745
+            },
+            {
+                "name": "elegant",
+                "value": 0.9302276372909546
+            },
+            {
+                "name": "illustration",
+                "value": 0.9139573574066162
+            },
+            {
+                "name": "blur",
+                "value": 0.9102121591567993
+            },
+            {
+                "name": "art",
+                "value": 0.9075895547866821
+            },
+            {
+                "name": "design",
+                "value": 0.9040724039077759
+            },
+            {
+                "name": "dynamic",
+                "value": 0.9012247920036316
+            },
+            {
+                "name": "modern",
+                "value": 0.8879624009132385
+            },
+            {
+                "name": "space",
+                "value": 0.8812841773033142
+            },
+            {
+                "name": "internet",
+                "value": 0.8492470979690552
+            }
+        ]
+    },
+    {
+        "uuid": "fead7c13-8369-4199-a8c0-d44f728efa40",
+        "tags": [
+            {
+                "name": "no person",
+                "value": 0.9940782189369202
+            },
+            {
+                "name": "furniture",
+                "value": 0.9823622703552246
+            },
+            {
+                "name": "room",
+                "value": 0.9721861481666565
+            },
+            {
+                "name": "sofa",
+                "value": 0.9657723307609558
+            },
+            {
+                "name": "pattern",
+                "value": 0.9571601748466492
+            },
+            {
+                "name": "wall",
+                "value": 0.953763484954834
+            },
+            {
+                "name": "texture",
+                "value": 0.948235034942627
+            },
+            {
+                "name": "retro",
+                "value": 0.9468687772750854
+            },
+            {
+                "name": "interior design",
+                "value": 0.9465879201889038
+            },
+            {
+                "name": "desktop",
+                "value": 0.9430103302001953
+            },
+            {
+                "name": "design",
+                "value": 0.9316359162330627
+            },
+            {
+                "name": "wear",
+                "value": 0.9311093091964722
+            },
+            {
+                "name": "contemporary",
+                "value": 0.9165228605270386
+            },
+            {
+                "name": "wallpaper",
+                "value": 0.9144929051399231
+            },
+            {
+                "name": "abstract",
+                "value": 0.8966753482818604
+            },
+            {
+                "name": "seat",
+                "value": 0.8950681686401367
+            },
+            {
+                "name": "background",
+                "value": 0.8745111227035522
+            },
+            {
+                "name": "old",
+                "value": 0.8725104331970215
+            },
+            {
+                "name": "vintage",
+                "value": 0.8711748123168945
+            },
+            {
+                "name": "fabric",
+                "value": 0.8664839267730713
+            }
+        ]
+    },
+    {
+        "uuid": "ff0221e5-d151-47ce-8d85-a69072cb08de",
+        "tags": [
+            {
+                "name": "bulb",
+                "value": 0.9996039271354675
+            },
+            {
+                "name": "electricity",
+                "value": 0.9995145797729492
+            },
+            {
+                "name": "lamp",
+                "value": 0.9983557462692261
+            },
+            {
+                "name": "invention",
+                "value": 0.9972361326217651
+            },
+            {
+                "name": "inspiration",
+                "value": 0.9950615167617798
+            },
+            {
+                "name": "intelligence",
+                "value": 0.9931610822677612
+            },
+            {
+                "name": "glass items",
+                "value": 0.9874976873397827
+            },
+            {
+                "name": "imagery",
+                "value": 0.9863966107368469
+            },
+            {
+                "name": "no person",
+                "value": 0.9862496852874756
+            },
+            {
+                "name": "creativity",
+                "value": 0.980388879776001
+            },
+            {
+                "name": "power",
+                "value": 0.9771581888198853
+            },
+            {
+                "name": "fluorescent",
+                "value": 0.9715801477432251
+            },
+            {
+                "name": "ecology",
+                "value": 0.9654785394668579
+            },
+            {
+                "name": "disjunct",
+                "value": 0.9624879360198975
+            },
+            {
+                "name": "efficiency",
+                "value": 0.9624475836753845
+            },
+            {
+                "name": "tungsten",
+                "value": 0.9584540128707886
+            },
+            {
+                "name": "energy",
+                "value": 0.9503180980682373
+            },
+            {
+                "name": "watt",
+                "value": 0.946267306804657
+            },
+            {
+                "name": "filament",
+                "value": 0.9354100823402405
+            },
+            {
+                "name": "illuminated",
+                "value": 0.9308674335479736
+            }
+        ]
+    }
+]

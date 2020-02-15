@@ -1,0 +1,85 @@
+{
+    "uuid": "test",
+    "tags": [
+        {
+            "name": "no person",
+            "value": 0.9868806600570679
+        },
+        {
+            "name": "speaker",
+            "value": 0.9827274084091187
+        },
+        {
+            "name": "wood",
+            "value": 0.9810042381286621
+        },
+        {
+            "name": "make noise",
+            "value": 0.9765863418579102
+        },
+        {
+            "name": "loud",
+            "value": 0.974877119064331
+        },
+        {
+            "name": "sound",
+            "value": 0.9665523767471313
+        },
+        {
+            "name": "retro",
+            "value": 0.9529290795326233
+        },
+        {
+            "name": "bass",
+            "value": 0.9443260431289673
+        },
+        {
+            "name": "intensity",
+            "value": 0.9415098428726196
+        },
+        {
+            "name": "music",
+            "value": 0.9378730654716492
+        },
+        {
+            "name": "stereo",
+            "value": 0.9304700493812561
+        },
+        {
+            "name": "acoustic",
+            "value": 0.9256143569946289
+        },
+        {
+            "name": "soprano",
+            "value": 0.9189250469207764
+        },
+        {
+            "name": "woofer",
+            "value": 0.91839200258255
+        },
+        {
+            "name": "membrane",
+            "value": 0.911734938621521
+        },
+        {
+            "name": "audio",
+            "value": 0.8973065614700317
+        },
+        {
+            "name": "voice",
+            "value": 0.8915393352508545
+        },
+        {
+            "name": "amplifier",
+            "value": 0.8721970319747925
+        },
+        {
+            "name": "electronics",
+            "value": 0.8697642087936401
+        },
+        {
+            "name": "equipment",
+            "value": 0.8562711477279663
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image classifier</title>
+</head>
+<body>
+    <!-- <img src="./images/Casiojs20wk.jpg" id="img"> -->
+    <!-- <img src="./images/46.png" id="img2"> -->
+    <!-- Load TensorFlow.js. This is required to use MobileNet. -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.1"> </script> -->
+    <!-- Load the MobileNet model. -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@1.0.0"> </script> -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script type="text/javascript" src="https://sdk.clarifai.com/js/clarifai-latest.js"></script>
+    <script>
+
+      axios.get('https://www.bypeople.com/labo/api/v1/sources/category/mockups/isolate')
+        .then(response => {
+            this.data = response.data;
+            console.log(this.data)
+        })
+        .catch(error => {
+            this.errors.push(error);
+        });
+
+        // const app = new Clarifai.App({apiKey: 'YOUR_API_KEY'});
+        
+        // Predict the contents of an image by passing in a URL.
+        // app.models.predict(Clarifai.GENERAL_MODEL, 'https://samples.clarifai.com/metro-north.jpg')
+          // .then(response => {
+            // console.log(response);
+          // })
+          // .catch(err => {
+            // console.log(err);
+          // });
+
+
+          
+
+      </script>
+
+
+
+  
+</body>
+</html>

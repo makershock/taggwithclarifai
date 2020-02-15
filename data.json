@@ -1,0 +1,173 @@
+{
+    "uuid": "test",
+    "tags": {
+        "status": {
+            "code": 10000,
+            "description": "Ok",
+            "req_id": "eaa3ddc5581949539082bd4e468b78d9"
+        },
+        "outputs": [
+            {
+                "id": "9875a5e0adae4da985abec0cc0bb07ff",
+                "status": {
+                    "code": 10000,
+                    "description": "Ok"
+                },
+                "created_at": "2020-02-14T22:42:29.654672688Z",
+                "model": {
+                    "id": "aaa03c23b3724a16a56b629203edc62c",
+                    "name": "general",
+                    "created_at": "2016-03-09T17:11:39.608845Z",
+                    "app_id": "main",
+                    "output_info": {
+                        "message": "Show output_info with: GET /models/{model_id}/output_info",
+                        "type": "concept",
+                        "type_ext": "concept"
+                    },
+                    "model_version": {
+                        "id": "aa7f35c01e0642fda5cf400f543e7c40",
+                        "created_at": "2018-03-06T21:10:24.454834Z",
+                        "status": {
+                            "code": 21100,
+                            "description": "Model is trained and ready"
+                        }
+                    },
+                    "display_name": "General"
+                },
+                "input": {
+                    "id": "fa6e525ac68244cf951eb828f3ffab55",
+                    "data": {
+                        "image": {
+                            "url": "https://samples.clarifai.com/placeholder.gif",
+                            "base64": "dHJ1ZQ=="
+                        }
+                    }
+                },
+                "data": {
+                    "concepts": [
+                        {
+                            "id": "ai_786Zr311",
+                            "name": "no person",
+                            "value": 0.9868806600570679,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_sQzkzjSk",
+                            "name": "speaker",
+                            "value": 0.9827274084091187,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_zFnPQdgB",
+                            "name": "wood",
+                            "value": 0.9810042381286621,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_Fz890NX5",
+                            "name": "make noise",
+                            "value": 0.9765863418579102,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_cn8TpGgt",
+                            "name": "loud",
+                            "value": 0.974877119064331,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_7w4WJMw5",
+                            "name": "sound",
+                            "value": 0.9665523767471313,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_1p2zMmqb",
+                            "name": "retro",
+                            "value": 0.9529290795326233,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_nN407DCq",
+                            "name": "bass",
+                            "value": 0.9443260431289673,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_169rtZhK",
+                            "name": "intensity",
+                            "value": 0.9415098428726196,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_k76BrtPJ",
+                            "name": "music",
+                            "value": 0.9378730654716492,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_RkLqBL8X",
+                            "name": "stereo",
+                            "value": 0.9304700493812561,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_1RlRvXP2",
+                            "name": "acoustic",
+                            "value": 0.9256143569946289,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_cTsjldW1",
+                            "name": "soprano",
+                            "value": 0.9189250469207764,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_sGG81kdZ",
+                            "name": "woofer",
+                            "value": 0.91839200258255,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_rNctnrxr",
+                            "name": "membrane",
+                            "value": 0.911734938621521,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_Knf4kjCC",
+                            "name": "audio",
+                            "value": 0.8973065614700317,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_2xCx5ckH",
+                            "name": "voice",
+                            "value": 0.8915393352508545,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_fBL8hNWb",
+                            "name": "amplifier",
+                            "value": 0.8721970319747925,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_XjXrH3qf",
+                            "name": "electronics",
+                            "value": 0.8697642087936401,
+                            "app_id": "main"
+                        },
+                        {
+                            "id": "ai_GzNlpxwb",
+                            "name": "equipment",
+                            "value": 0.8562711477279663,
+                            "app_id": "main"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
